@@ -1,0 +1,15 @@
+langchain
+langchain-community
+langchain-google-genai
+chromadb
+docling
+pymupdf
+tiktoken
+python-dotenv
+sentence-transformers
+python-docx
+odfpy
+trafilatura
+pandas
+rank_bm25
+streamlit

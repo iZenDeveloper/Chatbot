@@ -1,0 +1,1042 @@
+[
+  {
+    "id": "gs-01",
+    "question": "Grammarly ra mắt vào năm nào và nó hỗ trợ người dùng những gì?",
+    "answer": "Grammarly ra mắt vào năm 2009 (theo tài liệu \"ai-va-ung-dung-trong-day-hoc-ngoai-ngu_bui-thi-minh.pdf\", trang 3). Grammarly hỗ trợ người dùng bằng cách phát hiện và đề xuất sửa lỗi ngữ pháp, chính tả, dấu câu, và phong cách viết cho phù hợp, giúp người dùng tạo ra những bài viết chuẩn mực, rõ ràng và mạch lạc. Ngoài ra, Grammarly còn có khả năng phát hiện đạo văn, gợi ý từ vựng phù hợp với ngữ cảnh, và điều chỉnh phong cách viết theo mục tiêu của người dùng (theo tài liệu \"ai-va-ung-dung-trong-day-hoc-ngoai-ngu_bui-thi-minh.pdf\", trang 3).",
+    "fuzzy": {
+      "correctness_score": 0.7916666666666666,
+      "correctness_pass": true,
+      "faithfulness_score": 0.8260869565217391,
+      "faithfulness_pass": true
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-02",
+    "question": "ChatGPT do công ty nào phát triển, ra mắt vào thời điểm nào và dựa trên nền tảng mô hình nào?",
+    "answer": "ChatGPT do công ty OpenAI của Mỹ phát triển và ra mắt vào tháng 11 năm 2022, dựa trên nền tảng mô hình ngôn ngữ lớn GPT-3.5 (theo nguồn: nghien-cuu-anh-huong-ai-giao-duc-hoc-tap-sinh-vien_bui-trong-tai-nguyen-minh-tuan.pdf, trang 3).",
+    "fuzzy": {
+      "correctness_score": 0.7142857142857143,
+      "correctness_pass": true,
+      "faithfulness_score": 0.71875,
+      "faithfulness_pass": true
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-03",
+    "question": "Nghiên cứu tổng quan của Nguyễn Thị Hồng Chuyên dựa trên nguồn dữ liệu nào, trong khoảng thời gian nào, và bao nhiêu bài báo được đưa vào phân tích?",
+    "answer": "Nghiên cứu tổng quan của Nguyễn Thị Hồng Chuyên dựa trên nguồn dữ liệu Scopus, trong khoảng thời gian từ tháng 1 năm 2017 đến tháng 7 năm 2023, và có 25 bài báo được đưa vào phân tích (theo nguồn: overview-study-ai-in-teaching_nguyen-thi-hong-chuyen.pdf, trang 2).",
+    "fuzzy": {
+      "correctness_score": 0.5161290322580645,
+      "correctness_pass": true,
+      "faithfulness_score": 0.5909090909090909,
+      "faithfulness_pass": true
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-04",
+    "question": "Theo bài viết của Nguyễn Đăng Khoa và Nguyễn Quốc Hưng, AI bao gồm những khả năng nào?",
+    "answer": "Theo bài viết của Nguyễn Đăng Khoa và Nguyễn Quốc Hưng (Nguồn: phat-trien-ung-dung-ai-giao-duc-dai-hoc-vn_nguyen-dang-khoa-nguyen-quoc-hung.pdf, trang 2), AI bao gồm các khả năng như:\n\n- Học máy (Machine learning): học hỏi từ dữ liệu hoặc kinh nghiệm\n- Lập luận (Reasoning) để đưa ra quyết định hoặc giải quyết vấn đề thông minh\n- Tự điều chỉnh (Self-correction) để cải thiện hiệu suất theo thời gian\n- Hiểu ngôn ngữ tự nhiên (như ChatGPT)\n- Nhận dạng hình ảnh, âm thanh hoặc môi trường xung quanh.",
+    "fuzzy": {
+      "correctness_score": 0.72,
+      "correctness_pass": true,
+      "faithfulness_score": 0.7738095238095238,
+      "faithfulness_pass": true
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-05",
+    "question": "Nghiên cứu so sánh của Phạm Ngọc Thạch và cộng sự khảo sát bao nhiêu người, ở bao nhiêu trường đại học và vùng miền nào?",
+    "answer": "Nghiên cứu so sánh của Phạm Ngọc Thạch và cộng sự khảo sát khoảng 900 người, ở 08 trường đại học và 03 vùng miền của Việt Nam, bao gồm miền Bắc, Trung và Nam (theo trang 4 của tài liệu \"su-dung-ai-trong-day-hoc-ngoai-ngu-nghien-cuu-so-sanh_pham-ngoc-thach-et-al.pdf\").",
+    "fuzzy": {
+      "correctness_score": 0.5217391304347826,
+      "correctness_pass": true,
+      "faithfulness_score": 0.35714285714285715,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-06",
+    "question": "Theo Ng và cộng sự (2024), bốn miền đánh giá năng lực sử dụng AI của giáo viên là gì?",
+    "answer": "Theo Ng và cộng sự (2024), bốn miền đánh giá năng lực sử dụng AI của giáo viên là: Biết và hiểu, sử dụng và ứng dụng, đánh giá - tạo dựng và cuối cùng là vấn đề đạo đức trong sử dụng (Nguồn: su-dung-ai-trong-day-hoc-ngoai-ngu-nghien-cuu-so-sanh_pham-ngoc-thach-et-al.pdf, trang 3).",
+    "fuzzy": {
+      "correctness_score": 0.8095238095238095,
+      "correctness_pass": true,
+      "faithfulness_score": 0.1702127659574468,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-07",
+    "question": "Ai là hai nhà khoa học đặt nền móng cho AI vào những năm 1950, và mốc quan trọng nào diễn ra năm 1956?",
+    "answer": "Hai nhà khoa học đặt nền móng cho AI vào những năm 1950 là Alan Turing và John McCarthy. \nMốc quan trọng năm 1956 là khi nhà khoa học máy tính John McCarthy đưa ra ý tưởng về máy móc có khả năng suy nghĩ và thực hiện công việc như con người tại Hội nghị Dartmouth, và đề xuất phát triển AI đã được chính thức công nhận (theo tong-quan-ai-va-van-de-phap-ly_le-bo-linh.pdf, trang 1 và ai-va-ung-dung-trong-day-hoc-ngoai-ngu_bui-thi-minh.pdf, trang 1).",
+    "fuzzy": {
+      "correctness_score": 0.5135135135135135,
+      "correctness_pass": true,
+      "faithfulness_score": 0.6363636363636364,
+      "faithfulness_pass": true
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-08",
+    "question": "Bài viết về xu thế bảo hộ sáng chế AI được tổng hợp từ tài liệu nghiên cứu nào, của tổ chức nào?",
+    "answer": "Bài viết về xu thế bảo hộ sáng chế AI được tổng hợp từ tài liệu nghiên cứu 'WIPO Technology Trends 2019: Artificial Intelligence' của Tổ chức Sở hữu trí tuệ thế giới (WIPO) (Nguồn: xu-the-bao-ho-sang-che-va-nghien-cuu-ai_wipo-2019.pdf, trang 1).",
+    "fuzzy": {
+      "correctness_score": 0.9523809523809523,
+      "correctness_pass": true,
+      "faithfulness_score": 0.7631578947368421,
+      "faithfulness_pass": true
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-09",
+    "question": "Trong cuốn 'Deep Learning cơ bản', chương III giới thiệu bài toán nào và thuật toán nào để giải nó?",
+    "answer": "Trong cuốn 'Deep Learning cơ bản', chương III giới thiệu về bài toán Neural Network và thuật toán Backpropagation để giải bài toán này. (Nguồn: deep-learning-co-ban_nguyen-thanh-tuan_v2.pdf, trang 5)",
+    "fuzzy": {
+      "correctness_score": 0.5,
+      "correctness_pass": true,
+      "faithfulness_score": 0.6785714285714286,
+      "faithfulness_pass": true
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-10",
+    "question": "Trong lần tái bản thứ hai của sách 'Deep Learning cơ bản', tác giả đã thêm những nội dung mới nào?",
+    "answer": "Trong lần tái bản thứ hai của sách 'Deep Learning cơ bản', tác giả đã thêm những nội dung mới sau: \n\n- Thêm chương GAN.\n- Viết bài sequence to sequence và attention.\n- Viết bài hướng dẫn dùng yolo để detect biển số xe.\n- Thêm phần visualize CNN.\n- So sánh các loss function cho linear regression.\n- Giải linear regression bằng đại số tuyến tính.\n- Viết lại phần python cơ bản.\n- Thêm phần word embedding.\n- Thêm phần batch normalization.\n- Hướng dẫn lưu model trong machine learning dùng numpy.\n\n(Nguồn: deep-learning-co-ban_nguyen-thanh-tuan_v2.pdf, trang 7)",
+    "fuzzy": {
+      "correctness_score": 0.8085106382978723,
+      "correctness_pass": true,
+      "faithfulness_score": 0.696969696969697,
+      "faithfulness_pass": true
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-11",
+    "question": "Những công cụ AI hỗ trợ học ngoại ngữ nào được đề cập trong bài viết của Bùi Thị Minh?",
+    "answer": "Theo bài viết của Bùi Thị Minh (ai-va-ung-dung-trong-day-hoc-ngoai-ngu_bui-thi-minh.pdf, trang 2), các công cụ AI hỗ trợ học ngoại ngữ bao gồm:\n\n- Các công cụ tích hợp AI cung cấp các bài tập có nội dung phù hợp với trình độ, tiến độ học tập và phong cách học của học sinh.\n- Các gia sư ảo hỗ trợ học sinh giải bài tập và giải đáp thắc mắc.\n- Các nền tảng học trực tuyến cung cấp phản hồi và hướng dẫn kịp thời cho học sinh.\n- Các công cụ tự động chấm điểm các bài kiểm tra và bài tập, giảm bớt khối lượng công việc cho giáo viên và đảm bảo tính nhất quán trong việc đánh giá.\n- Các nền tảng tạo ra các bài học luyện phát âm, từ vựng, ngữ pháp phù hợp với từng cá nhân người học.\n- Các công cụ phân tích dữ liệu học tập của học sinh, cung cấp cho giáo viên thông tin chi tiết về tiến độ học tập và những lĩnh vực cần cải thiện.\n\n(Nguồn: ai-va-ung-dung-trong-day-hoc-ngoai-ngu_bui-thi-minh.pdf, trang 2)",
+    "fuzzy": {
+      "correctness_score": 0.1111111111111111,
+      "correctness_pass": false,
+      "faithfulness_score": 0.7771739130434783,
+      "faithfulness_pass": true
+    },
+    "llm_judge": {
+      "faithfulness_pass": false,
+      "correctness_pass": false,
+      "raw": "FAITHFULNESS: KHÔNG\nCORRECTNESS: KHÔNG"
+    }
+  },
+  {
+    "id": "gs-12",
+    "question": "Pydantic là gì theo tài liệu SUSE Best Practices, và tài liệu có bao nhiêu phần mục lục chính?",
+    "answer": "Pydantic là một thư viện Python mạnh mẽ được thiết kế cho việc xác thực dữ liệu và quản lý cài đặt, theo tài liệu \"Introduction to the Python Library Pydantic\" trong series SUSE Best Practices (trang 1) [Nguồn: introduction-to-pydantic_suse-best-practices.pdf, trang 1]. \n\nVề số lượng phần mục lục chính, tài liệu có các phần như \"Introduction\" (trang 4), \"The role of BaseModel\" (trang 5), \"Working with nested models in Pydantic\" (trang 17), \"Understanding serialization in Pydantic\" (trang 21), và có thể còn các phần khác không được đề cập cụ thể trong câu hỏi. Tuy nhiên, không có thông tin cụ thể về tổng số phần mục lục chính trong tài liệu.",
+    "fuzzy": {
+      "correctness_score": 0.3877551020408163,
+      "correctness_pass": false,
+      "faithfulness_score": 0.11607142857142858,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": false,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: KHÔNG"
+    }
+  },
+  {
+    "id": "gs-13",
+    "question": "Thư viện Requests hỗ trợ chính thức những phiên bản Python nào?",
+    "answer": "Thư viện Requests hỗ trợ chính thức tất cả các phiên bản Python được hỗ trợ chính thức và các phiên bản PyPy gần đây (trang 43, requests-documentation_kenneth-reitz.pdf). Cụ thể, Requests hỗ trợ CPython 3.12 (trang 48, requests-documentation_kenneth-reitz.pdf) và PyPy 3.9, 3.10 (trang 48, requests-documentation_kenneth-reitz.pdf). \n\nTuy nhiên, Requests đã ngừng hỗ trợ Python 2.7 (trang 43, trang 49, requests-documentation_kenneth-reitz.pdf), Python 3.6 (trang 49, requests-documentation_kenneth-reitz.pdf), Python 3.7 (trang 48, requests-documentation_kenneth-reitz.pdf) và PyPy 3.7, 3.8 (trang 48, requests-documentation_kenneth-reitz.pdf). \n\nDo đó, để có thông tin chính xác về các phiên bản Python được hỗ trợ, bạn nên kiểm tra tài liệu chính thức của Requests.",
+    "fuzzy": {
+      "correctness_score": 0.5714285714285714,
+      "correctness_pass": true,
+      "faithfulness_score": 0.11764705882352941,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": false,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: KHÔNG"
+    }
+  },
+  {
+    "id": "gs-14",
+    "question": "Bài báo VILA đề xuất phương pháp gì để cải thiện trích xuất nội dung có cấu trúc từ PDF khoa học, và I-VILA cải thiện được bao nhiêu Macro F1?",
+    "answer": "Bài báo VILA đề xuất phương pháp sử dụng VILA (VI sual LA yout) groups để cải thiện trích xuất nội dung có cấu trúc từ PDF khoa học (theo trang 1). Phương pháp I-VILA cải thiện được 1.9% Macro F1 (theo trang 1 và trang 9).",
+    "fuzzy": {
+      "correctness_score": 0.13043478260869565,
+      "correctness_pass": false,
+      "faithfulness_score": 0.10638297872340426,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-15",
+    "question": "TrOCR là gì và nó khác với các phương pháp OCR truyền thống (dựa trên CNN/RNN) như thế nào?",
+    "answer": "TrOCR là một mô hình OCR (Nhận dạng văn bản quang học) dựa trên kiến trúc Transformer, được đề xuất trong tài liệu \"trocr-transformer-based-ocr_li-et-al-2021.pdf\". TrOCR khác với các phương pháp OCR truyền thống dựa trên CNN (Mạng nơ-ron tích chập) và RNN (Mạng nơ-ron hồi quy) ở một số điểm quan trọng.\n\nThứ nhất, TrOCR sử dụng kiến trúc Transformer cho cả việc hiểu hình ảnh và tạo văn bản, thay vì sử dụng CNN cho việc hiểu hình ảnh và RNN cho việc tạo văn bản (theo trang 1 của tài liệu).\n\nThứ hai, TrOCR không cần sử dụng các bước xử lý trước và sau phức tạp, mà thay vào đó sử dụng một mô hình mã hóa-giải mã đơn giản (theo trang 2 của tài liệu).\n\nThứ ba, TrOCR sử dụng wordpiece (đơn vị từ) làm đơn vị cơ bản cho đầu ra nhận dạng, thay vì sử dụng các phương pháp dựa trên ký tự (theo trang 8 của tài liệu).\n\nTóm lại, TrOCR là một mô hình OCR mới dựa trên kiến trúc Transformer, khác với các phương pháp truyền thống dựa trên CNN và RNN, và đã đạt được kết quả tốt trên các nhiệm vụ nhận dạng văn bản in, viết tay và cảnh (theo trang 1 và trang 8 của tài liệu).",
+    "fuzzy": {
+      "correctness_score": 0.16129032258064516,
+      "correctness_pass": false,
+      "faithfulness_score": 0.04090909090909091,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-16",
+    "question": "Theo bài báo của Demiao Lin (ChatDOC), nguyên nhân chính khiến hệ thống RAG cho hỏi đáp tri thức chuyên ngành hoạt động kém hiệu quả là gì?",
+    "answer": "Theo bài báo của Demiao Lin (ChatDOC), nguyên nhân chính khiến hệ thống RAG cho hỏi đáp tri thức chuyên ngành hoạt động kém hiệu quả là do độ chính xác thấp của việc phân tích tệp PDF (PDF parsing) [Nguồn: revolutionizing-rag-with-enhanced-pdf-structure-recognition_demiao-lin-2024.pdf, trang 1].",
+    "fuzzy": {
+      "correctness_score": 0.21951219512195122,
+      "correctness_pass": false,
+      "faithfulness_score": 0.045454545454545456,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": false,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: KHÔNG\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-17",
+    "question": "Docling là gì và được phát triển bởi tổ chức nào?",
+    "answer": "Docling là một công cụ mã nguồn mở (open-source tool) được phát triển bởi IBM Deep Search, được thiết kế để chuyển đổi và xử lý tài liệu (như PDF, Word, PowerPoint, Excel, HTML, hình ảnh, v.v.) sang các định dạng có cấu trúc như Markdown hoặc JSON để các mô hình Trí tuệ Nhân tạo (AI) có thể đọc, hiểu và xử lý tốt nhất. (Nguồn: docling-la-gi-cac-tinh-nang_pavietnam.pdf, trang 1)",
+    "fuzzy": {
+      "correctness_score": 0.88,
+      "correctness_pass": true,
+      "faithfulness_score": 0.9285714285714286,
+      "faithfulness_pass": true
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-18",
+    "question": "Theo bài viết của Arun Venkataswamy (Unstract), LLMWhisperer được giới thiệu để giải quyết vấn đề gì?",
+    "answer": "Theo bài viết của Arun Venkataswamy (Unstract), LLMWhisperer được giới thiệu để giải quyết vấn đề khó khăn khi trích xuất văn bản có ý nghĩa từ các tệp PDF, đặc biệt là khi làm việc với các mô hình ngôn ngữ lớn (LLMs) (pdf-hell-and-practical-rag-applications_arun-venkataswamy-unstract.pdf, trang 1 và 17). LLMWhisperer là một dịch vụ chuyển đổi PDF-to-text tổng thể từ Unstract, được thiết kế để trình bày dữ liệu từ các tài liệu phức tạp cho LLMs một cách hiệu quả.",
+    "fuzzy": {
+      "correctness_score": 0.2857142857142857,
+      "correctness_pass": false,
+      "faithfulness_score": 0.06172839506172839,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": false,
+      "correctness_pass": false,
+      "raw": "FAITHFULNESS: KHÔNG\nCORRECTNESS: KHÔNG"
+    }
+  },
+  {
+    "id": "gs-19",
+    "question": "Theo báo cáo Statista (2024) được trích trong bài viết của Nguyễn Minh Hải (VNPT AI), mỗi ngày thế giới tạo ra bao nhiêu dữ liệu mới và phần lớn ở dạng nào?",
+    "answer": "Theo báo cáo Statista (2024) được trích trong bài viết của Nguyễn Minh Hải (VNPT AI), mỗi ngày thế giới tạo ra hơn 400 triệu terabyte dữ liệu mới, trong đó phần lớn ở dạng văn bản phi cấu trúc như email, hợp đồng, báo cáo hay hóa đơn. (Nguồn: text-extraction-cong-nghe-trich-xuat-van-ban_nguyen-minh-hai-vnpt.pdf, trang 1)",
+    "fuzzy": {
+      "correctness_score": 1.0,
+      "correctness_pass": true,
+      "faithfulness_score": 0.24528301886792453,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-20",
+    "question": "Theo bài viết của Zilliz, 3 lĩnh vực chính cần chú ý để dùng embedding hiệu quả trong RAG là gì?",
+    "answer": "Theo bài viết của Zilliz (trang 1), 3 lĩnh vực chính cần chú ý để dùng embedding hiệu quả trong RAG (Retrieval-Augmented Generation) systems là: \n1. Lựa chọn và tinh chỉnh mô hình embedding, \n2. Tối ưu hóa tiền xử lý dữ liệu và lưu trữ, \n3. Đảm bảo việc truy xuất hiệu quả (theo nguồn: best-practices-for-using-embeddings-in-rag-systems_zilliz-vector-database.pdf, trang 1).",
+    "fuzzy": {
+      "correctness_score": 0.5652173913043478,
+      "correctness_pass": true,
+      "faithfulness_score": 0.06779661016949153,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-21",
+    "question": "Bài báo của Caspari và cộng sự đề xuất phương pháp gì để đánh giá các embedding model, khác gì so với benchmark truyền thống?",
+    "answer": "Bài báo của Caspari và cộng sự đề xuất phương pháp đánh giá các embedding model dựa trên sự tương tự của chúng, bao gồm việc sử dụng Centered Kernel Alignment để so sánh các embedding trên mức độ từng cặp và đánh giá sự tương tự của kết quả truy xuất giữa các mô hình này sử dụng Jaccard và rank similarity (theo beyond-benchmarks-embedding-model-similarity-rag_caspari.pdf, trang 1). Phương pháp này khác so với benchmark truyền thống vì nó không chỉ dựa vào điểm số hiệu suất của mô hình, mà còn xem xét sự tương tự giữa các mô hình và kết quả truy xuất của chúng. Điều này cho phép đánh giá sự tương tự giữa các mô hình một cách toàn diện hơn, không chỉ dựa vào điểm số hiệu suất (theo beyond-benchmarks-embedding-model-similarity-rag_caspari.pdf, trang 1).",
+    "fuzzy": {
+      "correctness_score": 0.275,
+      "correctness_pass": false,
+      "faithfulness_score": 0.051094890510948905,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-22",
+    "question": "Nghiên cứu của Wu về chunking cho code completion tập trung trả lời câu hỏi gì còn bỏ ngỏ?",
+    "answer": "Nghiên cứu của Wu về chunking cho code completion tập trung trả lời câu hỏi về hiệu quả của các chiến lược chunking khác nhau trong việc cải thiện chất lượng hoàn thành mã (code completion). Cụ thể, nghiên cứu này nhằm trả lời các câu hỏi còn bỏ ngỏ về hiệu quả của các chiến lược chunking khác nhau, bao gồm:\n\n- Chiến lược chunking nào mang lại hiệu quả cao nhất cho code completion?\n- Liệu các chiến lược chunking khác nhau có tương tác với các phương pháp truy xuất và mô hình hoàn thành mã khác nhau như thế nào?\n- Các tham số chunking nào có ảnh hưởng lớn nhất đến chất lượng hoàn thành mã?\n- Chi phí token liên quan đến các chiến lược chunking khác nhau là gì và làm thế nào để cân bằng giữa chất lượng và chi phí?\n\nTheo tài liệu \"chunking-rag-code-completion_wu.pdf\", trang 3, nghiên cứu này tập trung vào bốn câu hỏi nghiên cứu (RQ) chính:\n\n- RQ1 (Strategy Effect): Hiệu quả của các chiến lược chunking khác nhau đối với chất lượng hoàn thành mã.\n- RQ2 (Interaction Effect): Tương tác giữa các chiến lược chunking và các phương pháp truy xuất, mô hình hoàn thành mã khác nhau.\n- RQ3 (Parameter Sensitivity): Ảnh hưởng của các tham số chunking đến chất lượng hoàn thành mã.\n- RQ4 (Cost-Quality Trade-off): Chi phí token liên quan đến các chiến lược chunking khác nhau và sự cân bằng giữa chất lượng và chi phí.\n\nNguồn: chunking-rag-code-completion_wu.pdf, trang 3.",
+    "fuzzy": {
+      "correctness_score": 0.28205128205128205,
+      "correctness_pass": false,
+      "faithfulness_score": 0.07722007722007722,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": false,
+      "correctness_pass": false,
+      "raw": "FAITHFULNESS: KHÔNG\nCORRECTNESS: KHÔNG"
+    }
+  },
+  {
+    "id": "gs-23",
+    "question": "Trong nghiên cứu của Bennani về chunking, prompt sinh câu trả lời yêu cầu model làm gì khi ngữ cảnh không đủ thông tin?",
+    "answer": "Trong nghiên cứu của Bennani về chunking, prompt yêu cầu model \"Answer only using the provided context. If the context is insufficient, output 'NONE'.\" (Nguồn: chunking-strategies-rag-reliability_bennani.pdf, trang 1). Điều này có nghĩa là khi ngữ cảnh không đủ thông tin, model sẽ trả lời \"NONE\".",
+    "fuzzy": {
+      "correctness_score": 0.30303030303030304,
+      "correctness_pass": false,
+      "faithfulness_score": 0.3111111111111111,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": false,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: KHÔNG\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-24",
+    "question": "Theo bài viết của Schwaber-Cohen, có 2 lý do chính nào khiến chunking cần thiết cho ứng dụng dùng vector database/LLM?",
+    "answer": "Theo bài viết của Schwaber-Cohen (chunking-strategies-for-llm-applications_schwaber-cohen.pdf, trang 2), có 2 lý do chính khiến chunking cần thiết cho ứng dụng dùng vector database/LLM:\n\n1. Để đảm bảo các mô hình nhúng (embedding models) có thể chứa dữ liệu trong cửa sổ ngữ cảnh (context windows) của chúng.\n2. Để đảm bảo các chunk chứa thông tin cần thiết cho việc tìm kiếm (search).\n\nNếu không thực hiện chunking, dữ liệu có thể bị cắt bớt hoặc bị loại bỏ trước khi được xử lý thành vector, dẫn đến mất thông tin quan trọng và ảnh hưởng đến kết quả tìm kiếm.",
+    "fuzzy": {
+      "correctness_score": 0.6052631578947368,
+      "correctness_pass": true,
+      "faithfulness_score": 0.04950495049504951,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-25",
+    "question": "Trong bài hướng dẫn của Anna Gutowska, tác giả thử nghiệm các chiến lược chunking bằng công cụ/mô hình nào?",
+    "answer": "Trong bài hướng dẫn của Anna Gutowska, tác giả thử nghiệm các chiến lược chunking bằng công cụ LangChain và mô hình IBM Granite mới nhất trên nền tảng watsonx.ai. (Nguồn: chunking-strategies-for-rag-langchain-watsonx-ai_anna-gutowska.pdf, trang 2)",
+    "fuzzy": {
+      "correctness_score": 0.6923076923076923,
+      "correctness_pass": true,
+      "faithfulness_score": 0.08823529411764706,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-26",
+    "question": "Theo Femke Plantinga, nhiều nhà phát triển tập trung sai chỗ khi tối ưu RAG — họ thường ưu tiên gì thay vì bước quan trọng nhất?",
+    "answer": "Theo Femke Plantinga, nhiều nhà phát triển tập trung sai chỗ khi tối ưu RAG — họ thường ưu tiên việc chọn vector database hoặc embedding model thay vì bước quan trọng nhất là chuẩn bị dữ liệu (chunking) [Nguồn: chunking-strategies-to-improve-llm-rag-pipeline-performance_femke-plantinga.pdf, trang 1].",
+    "fuzzy": {
+      "correctness_score": 0.6896551724137931,
+      "correctness_pass": true,
+      "faithfulness_score": 0.13953488372093023,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-27",
+    "question": "Theo bài viết của Unstructured, công cụ Ingestion của họ hỗ trợ kết nối tới những loại nguồn dữ liệu doanh nghiệp nào?",
+    "answer": "Công cụ Ingestion của Unstructured hỗ trợ kết nối tới nhiều loại nguồn dữ liệu doanh nghiệp, bao gồm: \n- Lưu trữ đám mây (S3, GCS, Azure)\n- Nền tảng hợp tác (SharePoint, Confluence, Box)\n- Ứng dụng kinh doanh (Salesforce, Jira)\n- Cơ sở dữ liệu\n- Hệ thống truyền tải (Kafka) \n(Nguồn: data-preprocessing-for-rag_unstructured.html, trang 1)",
+    "fuzzy": {
+      "correctness_score": 0.5714285714285714,
+      "correctness_pass": true,
+      "faithfulness_score": 0.08771929824561403,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-28",
+    "question": "Theo bài viết, một khách hàng fintech phát hiện ra nguyên nhân thực sự khiến kết quả RAG kém là gì, sau khi đã thử nhiều vector database khác nhau?",
+    "answer": "Theo bài viết, một khách hàng fintech phát hiện ra rằng nguyên nhân thực sự khiến kết quả RAG kém là do dữ liệu \"dirty\" (dữ liệu bẩn), như được đề cập trong tài liệu \"document-loading-parsing-and-cleaning-in-ai-applications_jacky-liang.pdf\" ở trang 3. Cụ thể, khách hàng này đã dành nhiều tuần để tinh chỉnh ứng dụng RAG với các vector database khác nhau, nhưng sau đó mới nhận ra rằng vấn đề thực sự nằm ở chất lượng dữ liệu.",
+    "fuzzy": {
+      "correctness_score": 0.5909090909090909,
+      "correctness_pass": true,
+      "faithfulness_score": 0.05194805194805195,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": false,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: KHÔNG\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-29",
+    "question": "Bài viết dùng nguyên tắc nào để giải thích vì sao chunking quan trọng đối với chất lượng RAG?",
+    "answer": "Bài viết sử dụng nguyên tắc về giới hạn kích thước ngữ cảnh (Context Window Constraints) và hiệu quả của việc thu hồi thông tin (Retrieval Efficiency) để giải thích vì sao chunking quan trọng đối với chất lượng RAG. Cụ thể, theo nguồn \"ultimate-guide-chunking-strategies-rag-applications_debu-sinha.pdf\" trang 1, chunking giúp đảm bảo rằng không có chunk nào vượt quá giới hạn kích thước ngữ cảnh của mô hình nhúng và mô hình ngôn ngữ lớn (LLM), từ đó cải thiện độ chính xác và hiệu quả của việc thu hồi thông tin. Ngoài ra, nguồn \"chunking-strategies-to-improve-llm-rag-pipeline-performance_femke-plantinga.pdf\" trang 2 cũng nhấn mạnh rằng chunking đúng cách là một trong những quyết định quan trọng nhất khi xây dựng đường ống RAG, vì nó ảnh hưởng đến khả năng tìm kiếm thông tin liên quan và đưa ra câu trả lời chính xác.",
+    "fuzzy": {
+      "correctness_score": 0.18181818181818182,
+      "correctness_pass": false,
+      "faithfulness_score": 0.04285714285714286,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": false,
+      "correctness_pass": false,
+      "raw": "FAITHFULNESS: KHÔNG\nCORRECTNESS: KHÔNG"
+    }
+  },
+  {
+    "id": "gs-30",
+    "question": "Trong bài viết của Amit Bleiweiss (NVIDIA), model reranking NeMo Retriever NIM được xây dựng dựa trên kiến trúc nào?",
+    "answer": "Model reranking NeMo Retriever NIM được xây dựng dựa trên kiến trúc transformer encoder, cụ thể là một phiên bản LoRA fine-tuned của Mistral-7B, sử dụng chỉ 16 lớp đầu tiên để tăng tốc độ xử lý (theo trang 1 của tài liệu \"enhancing-rag-pipelines-with-re-ranking_amit-bleiweiss.pdf\").",
+    "fuzzy": {
+      "correctness_score": 0.35714285714285715,
+      "correctness_pass": false,
+      "faithfulness_score": 0.13636363636363635,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-31",
+    "question": "Nghiên cứu \"From PDF to RAG-Ready\" áp dụng được cho những lĩnh vực quản lý tài liệu nào?",
+    "answer": "Nghiên cứu \"From PDF to RAG-Ready\" áp dụng được cho các lĩnh vực quản lý tài liệu hành chính, pháp lý và quy định trong các tổ chức xử lý tài liệu nhạy cảm hoặc không phải tiếng Anh. (Nguồn: evaluating-pdf-to-rag-conversion-frameworks_jose-paulo-marques-dos-santos-2.pdf, trang 1)",
+    "fuzzy": {
+      "correctness_score": 0.78125,
+      "correctness_pass": true,
+      "faithfulness_score": 0.046511627906976744,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-32",
+    "question": "Theo Wikipedia, HNSW lưu trữ vector theo cấu trúc nào, và cấu trúc phân lớp đó hoạt động ra sao?",
+    "answer": "Theo Wikipedia, HNSW lưu trữ vector trong một cấu trúc đồ thị (graph) có nhiều lớp (hierarchical). Mỗi vector là một nút (node) trong đồ thị, và các nút này được kết nối với nhau bằng các liên kết (edges) đến các vector gần đó. Cấu trúc phân lớp của đồ thị HNSW hoạt động như sau:\n\n- Các lớp trên cùng (upper layers) chứa ít nút hơn và đóng vai trò như một bản đồ tổng quan, cho phép di chuyển nhanh trên toàn bộ tập dữ liệu.\n- Lớp dưới cùng (bottom layer) chứa tất cả các nút và cung cấp một cái nhìn chi tiết hơn về tập dữ liệu.\n- Quá trình tìm kiếm bắt đầu từ một điểm nhập (entry point) trong lớp trên cùng, sau đó theo dõi các liên kết đến các nút gần hơn với vector truy vấn, và lặp lại quá trình này trong các lớp dưới cho đến khi tìm thấy một tập hợp các nút gần nhất có thể.\n\nNhư vậy, cấu trúc phân lớp của HNSW cho phép thực hiện tìm kiếm nhanh và hiệu quả trên tập dữ liệu lớn bằng cách tận dụng lợi thế của cả việc di chuyển nhanh trên toàn bộ tập dữ liệu và việc tìm kiếm chi tiết gần vector truy vấn. (Nguồn: hierarchical-navigable-small-world-hnsw_wikipedia.pdf, trang 1)",
+    "fuzzy": {
+      "correctness_score": 0.6271186440677966,
+      "correctness_pass": true,
+      "faithfulness_score": 0.035555555555555556,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-33",
+    "question": "Theo benchmark của Chroma Research được trích trong bài, cấu hình chunking mặc định của OpenAI Assistants (800 token, overlap 400 token) đạt độ chính xác bao nhiêu, và đây là kết quả thế nào so với các cấu hình khác?",
+    "answer": "Theo benchmark của Chroma Research được trích trong bài, cấu hình chunking mặc định của OpenAI Assistants (800 token, overlap 400 token) đạt độ chính xác 1,4% (theo nguồn: optimal-rag-chunking-8-strategies-real-benchmarks.pdf, trang 1). Đây là kết quả thấp nhất trong tất cả các cấu hình được thử nghiệm, với bình luận \"đặc biệt có hiệu suất kém về sự cân bằng giữa độ nhớ và hiệu suất\" (particularly poor recall-efficiency tradeoffs). Trong khi đó, cấu hình đơn giản hơn (200 token, không có overlap) lại đạt độ chính xác tốt hơn 3,7 lần (theo nguồn: optimal-rag-chunking-8-strategies-real-benchmarks.pdf, trang 1).",
+    "fuzzy": {
+      "correctness_score": 0.5454545454545454,
+      "correctness_pass": true,
+      "faithfulness_score": 0.10309278350515463,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-34",
+    "question": "Theo tài liệu Azure Architecture Center, khi embed câu hỏi người dùng trong một giải pháp RAG, cần lưu ý điều gì về việc chọn model?",
+    "answer": "Không tìm thấy thông tin về tài liệu Azure Architecture Center trong phần NGỮ CẢNH. Tuy nhiên, dựa trên thông tin từ các nguồn khác, khi embed câu hỏi người dùng trong một giải pháp RAG, cần lưu ý về việc chọn model, bao gồm:\n\n- Model size và architecture: Các mô hình lớn hơn thường cho kết quả tốt hơn nhưng có độ trễ và chi phí cao hơn (Nguồn: data-preprocessing-for-rag_unstructured.html, trang 1).\n- Domain của dữ liệu đào tạo: Các mô hình được đào tạo trên dữ liệu chung có thể không hoạt động tốt trên các lĩnh vực chuyên biệt (Nguồn: data-preprocessing-for-rag_unstructured.html, trang 1).\n- Kích thước của vector embedding: Các mô hình có kích thước vector khác nhau (Nguồn: data-preprocessing-for-rag_unstructured.html, trang 1).\n\nDo đó, việc chọn mô hình phù hợp là rất quan trọng trong thiết kế hệ thống RAG (Nguồn: beyond-benchmarks-embedding-model-similarity-rag_caspari.pdf, trang 1).",
+    "fuzzy": {
+      "correctness_score": 0.2727272727272727,
+      "correctness_pass": false,
+      "faithfulness_score": 0.04054054054054054,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": false,
+      "correctness_pass": false,
+      "raw": "FAITHFULNESS: KHÔNG\nCORRECTNESS: KHÔNG"
+    }
+  },
+  {
+    "id": "gs-35",
+    "question": "RAGPerf tách quy trình RAG thành những thành phần mô-đun nào để tiện phân tích hiệu năng chi tiết?",
+    "answer": "RAGPerf tách quy trình RAG thành các thành phần mô-đun sau: \n\n- Nhúng (embedding)\n- Chỉ mục (indexing)\n- Trích xuất (retrieval)\n- Xếp hạng lại (reranking)\n- Tạo (generation)\n\nTheo như tài liệu \"ragperf-end-to-end-benchmarking-framework-for-rag-systems_shaobo-li-et-al-2024.pdf\", trang 1.",
+    "fuzzy": {
+      "correctness_score": 0.0,
+      "correctness_pass": false,
+      "faithfulness_score": 0.08108108108108109,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-36",
+    "question": "Theo ebook của Pinecone, reranker được giới thiệu như giải pháp cho tình huống nào?",
+    "answer": "Theo ebook của Pinecone, reranker được giới thiệu như giải pháp cho tình huống khi Retrieval Augmented Generation (RAG) không hoạt động như mong đợi. Cụ thể, khi pipeline RAG không mang lại kết quả tốt, việc sử dụng reranker có thể giúp cải thiện chất lượng của các tài liệu được thu thập và tăng cường hiệu suất của hệ thống. (Nguồn: rerankers-and-two-stage-retrieval_pinecone.pdf, trang 1)",
+    "fuzzy": {
+      "correctness_score": 0.16666666666666666,
+      "correctness_pass": false,
+      "faithfulness_score": 0.15151515151515152,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-37",
+    "question": "Theo bài Retrieval-Augmented Generation for Large Language Models: A Survey của Yunfan Gao, RAG giải quyết những hạn chế nào của LLM?",
+    "answer": "Theo bài \"Retrieval-Augmented Generation for Large Language Models: A Survey\" của Yunfan Gao, RAG giải quyết những hạn chế của LLM, đặc biệt là trong các nhiệm vụ chuyên về lĩnh vực hoặc đòi hỏi kiến thức chuyên sâu [1], và vấn đề \"hallucinations\" [2] khi xử lý các truy vấn ngoài dữ liệu đào tạo hoặc yêu cầu thông tin hiện tại (trang 1).\n\nCụ thể, RAG giúp giảm thiểu vấn đề tạo ra nội dung không chính xác bằng cách tham khảo kiến thức từ bên ngoài. Điều này cho phép LLM sử dụng thông tin chuyên về lĩnh vực hoặc thông tin cập nhật mà không có sẵn trong dữ liệu đào tạo, từ đó cải thiện độ chính xác của thông tin và giảm thiểu \"hallucinations\" (trang 1).",
+    "fuzzy": {
+      "correctness_score": 0.16666666666666666,
+      "correctness_pass": false,
+      "faithfulness_score": 0.06060606060606061,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": false,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: KHÔNG"
+    }
+  },
+  {
+    "id": "gs-38",
+    "question": "Theo Wikipedia, thuật ngữ \"retrieval-augmented generation\" (RAG) được giới thiệu lần đầu trong bối cảnh nào?",
+    "answer": "Theo Wikipedia, thuật ngữ \"retrieval-augmented generation\" (RAG) được giới thiệu lần đầu trong một bài báo năm 2020, mô tả việc kết hợp một mô hình ngôn ngữ tham số với một bộ nhớ ngoài không tham số được truy cập thông qua việc truy xuất tại thời điểm suy luận (retrieval-augmented-generation-rag_wikipedia.pdf, trang 1).",
+    "fuzzy": {
+      "correctness_score": 0.8222222222222222,
+      "correctness_pass": true,
+      "faithfulness_score": 0.018518518518518517,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-39",
+    "question": "Theo bài báo của Abdallah, GenRead giải quyết hạn chế của các model retrieval truyền thống (BM25, DPR) bằng cách nào?",
+    "answer": "Theo bài báo của Abdallah, GenRead giải quyết hạn chế của các model retrieval truyền thống (BM25, DPR) bằng cách kết hợp giữa việc tạo ra văn bản liên quan và sử dụng nó để dự đoán câu trả lời. Điều này giúp cải thiện hiệu suất của mô hình trong việc trả lời câu hỏi, đặc biệt là trong các nhiệm vụ QA mở (ODQA) và các nhiệm vụ liên quan đến retrieval-augmented. (Nguồn: retrieval-to-generation_abdallah.pdf, trang 1)",
+    "fuzzy": {
+      "correctness_score": 0.36666666666666664,
+      "correctness_pass": false,
+      "faithfulness_score": 0.038461538461538464,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-40",
+    "question": "Theo bài báo \"Searching for Best Practices in RAG\", một workflow RAG điển hình bao gồm những bước xử lý trung gian nào?",
+    "answer": "Theo bài báo \"Searching for Best Practices in RAG\" (trang 2 và trang 10), một workflow RAG điển hình bao gồm các bước xử lý trung gian sau: \n\n1. Retriever (tìm kiếm): Xử lý câu hỏi của người dùng, có thể bao gồm việc mở rộng câu hỏi trước khi tìm kiếm tài liệu từ các nguồn tri thức bên ngoài.\n2. Re-ranking (xếp hạng lại): Xếp hạng lại các tài liệu được tìm kiếm dựa trên mức độ liên quan.\n3. Generator (tạo nội dung): Tổng hợp câu trả lời dựa trên câu hỏi và nội dung được tìm kiếm.\n4. Post-processing (xử lý sau): Bước xử lý tùy chọn để tinh chỉnh đầu ra, bao gồm xếp hạng, viết lại hoặc kiểm tra sự thật.\n\n(Nguồn: searching-best-practices-retrieval-augmented-generation_xiaohua-wang-et-al.pdf, trang 2 và trang 10)",
+    "fuzzy": {
+      "correctness_score": 0.2857142857142857,
+      "correctness_pass": false,
+      "faithfulness_score": 0.04477611940298507,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": false,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: KHÔNG"
+    }
+  },
+  {
+    "id": "gs-41",
+    "question": "Theo bài viết \"Semantic Chunking: A Developer's Guide\", semantic chunking hoạt động dựa trên nguyên tắc gì, và điểm cần lưu ý theo benchmark là gì?",
+    "answer": "Theo bài viết \"Semantic Chunking: A Developer's Guide\" của Megna Anand (trang 1-2), semantic chunking hoạt động dựa trên nguyên tắc sử dụng độ tương tự của các vector nhúng (embedding similarity) để phát hiện ranh giới chủ đề trong văn bản. Thay vì chia văn bản thành các đoạn có độ dài cố định, semantic chunking chia văn bản tại các điểm mà các câu liên tiếp không còn liên quan đến nhau.\n\nĐiểm cần lưu ý theo benchmark là mặc dù semantic chunking có thể giải quyết một số vấn đề cụ thể về truy xuất dữ liệu, nhưng nó không phải lúc nào cũng tốt hơn các phương pháp đơn giản khác. Do đó, trước khi áp dụng semantic chunking, nên phân tích pipeline của mình để tránh thêm tải trọng không cần thiết (trang 1).",
+    "fuzzy": {
+      "correctness_score": 0.42424242424242425,
+      "correctness_pass": true,
+      "faithfulness_score": 0.09352517985611511,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-42",
+    "question": "Bài viết \"Ultimate Guide to Chunking Strategies\" của Debu Sinha tập trung minh hoạ việc triển khai chunking trên nền tảng nào?",
+    "answer": "Bài viết \"Ultimate Guide to Chunking Strategies\" của Debu Sinha tập trung minh họa việc triển khai chunking trên nền tảng Databricks. (Nguồn: ultimate-guide-chunking-strategies-rag-applications_debu-sinha.pdf, trang 1)",
+    "fuzzy": {
+      "correctness_score": 1.0,
+      "correctness_pass": true,
+      "faithfulness_score": 0.19230769230769232,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-43",
+    "question": "Theo bài review của Toni Taipalus, VDBMS (Vector Database Management System) ra đời nhằm đáp ứng nhu cầu gì?",
+    "answer": "Theo bài review của Toni Taipalus, VDBMS (Vector Database Management System) ra đời nhằm đáp ứng nhu cầu quản lý và xử lý dữ liệu vector hiệu quả, đặc biệt là dữ liệu vector có chiều cao (high-dimensional vector data) (Nguồn: vector-database-management-systems-concepts-challenges_toni-taipalus.pdf, trang 2).",
+    "fuzzy": {
+      "correctness_score": 0.24528301886792453,
+      "correctness_pass": false,
+      "faithfulness_score": 0.11363636363636363,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": false,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: KHÔNG"
+    }
+  },
+  {
+    "id": "gs-44",
+    "question": "Bài khảo sát của Le Ma và cộng sự về Vector Database tập trung vào những khía cạnh kỹ thuật nào theo tiêu đề?",
+    "answer": "Bài khảo sát của Le Ma và cộng sự về Vector Database tập trung vào các khía cạnh kỹ thuật như Storage Techniques, Search Techniques, Database Comparison, Challenges, và Synergy of Large Language Models (LLMs) với VDBs, như được mô tả trong Figure 1 của tài liệu \"vector-database-survey-storage-retrieval_le-ma.pdf\" (trang 2).",
+    "fuzzy": {
+      "correctness_score": 0.15789473684210525,
+      "correctness_pass": false,
+      "faithfulness_score": 0.32,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-45",
+    "question": "Theo Wikipedia, trong các benchmark gần đây, loại kỹ thuật index nào cho vector database thường đạt hiệu năng tốt nhất?",
+    "answer": "Không tìm thấy thông tin về loại kỹ thuật index nào cho vector database thường đạt hiệu năng tốt nhất trong các benchmark gần đây trên trang 1 của tài liệu \"vector-database_wikipedia.pdf\". Tuy nhiên, có thể tham khảo các thông tin về các kỹ thuật index khác nhau trong các tài liệu khác như \"vector-database-management-systems-concepts-challenges_toni-taipalus.pdf\" và \"ragperf-end-to-end-benchmarking-framework-for-rag-systems_shaobo-li-et-al-2024.pdf\". \n\nTheo trang 6 của tài liệu \"ragperf-end-to-end-benchmarking-framework-for-rag-systems_shaobo-li-et-al-2024.pdf\", các kỹ thuật index như Graph-based indices (ví dụ HNSW) và Cluster-based indices (ví dụ IVF) được đề cập, nhưng không có thông tin cụ thể về loại kỹ thuật index nào đạt hiệu năng tốt nhất. \n\nDo đó, không có đủ thông tin để trả lời câu hỏi này.",
+    "fuzzy": {
+      "correctness_score": 0.5,
+      "correctness_pass": true,
+      "faithfulness_score": 0.05263157894736842,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": false,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: KHÔNG"
+    }
+  },
+  {
+    "id": "gs-46",
+    "question": "Bài báo \"Vision-Guided Chunking\" đề xuất giải quyết vấn đề gì mà các phương pháp chunking dựa trên text truyền thống gặp khó khăn?",
+    "answer": "Bài báo \"Vision-Guided Chunking\" đề xuất giải quyết vấn đề về việc các phương pháp chunking dựa trên text truyền thống gặp khó khăn khi xử lý các tài liệu phức tạp, đặc biệt là các tài liệu có cấu trúc phức tạp, bảng, hình ảnh và mối quan hệ giữa các phần khác nhau (theo trang 3). Các phương pháp truyền thống thường phá vỡ các mối quan hệ này và không thể giữ được cấu trúc logic và sự phụ thuộc giữa các phần của tài liệu (theo trang 2). Bài báo đề xuất một phương pháp chunking dựa trên tầm nhìn (vision-guided chunking) để giải quyết vấn đề này, bằng cách sử dụng thông tin về cấu trúc và hình ảnh của tài liệu để tạo ra các chunk có ý nghĩa và giữ được mối quan hệ giữa các phần khác nhau (theo trang 9).\n\nNguồn: \n- vision-guided-chunking-is-all-you-need_tripathi.pdf, trang 3\n- vision-guided-chunking-is-all-you-need_tripathi.pdf, trang 2\n- vision-guided-chunking-is-all-you-need_tripathi.pdf, trang 9",
+    "fuzzy": {
+      "correctness_score": 0.3225806451612903,
+      "correctness_pass": false,
+      "faithfulness_score": 0.018518518518518517,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": false,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: KHÔNG\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-47",
+    "question": "Theo tài liệu \"Building serverless architectures for agentic AI on AWS\", vì sao kiến trúc serverless phù hợp với khối lượng công việc AI, đặc biệt là inference?",
+    "answer": "Theo tài liệu \"Building serverless architectures for agentic AI on AWS\" (trang 8), kiến trúc serverless phù hợp với khối lượng công việc AI, đặc biệt là inference, vì các khối lượng công việc này thường \"không thể dự đoán và có tính chất bùng nổ\" (unpredictable and bursty). Trong các kiến trúc truyền thống, điều này dẫn đến việc phải cung cấp quá mức cơ sở hạ tầng, tăng chi phí và phức tạp khi mở rộng quy mô. Ngược lại, kiến trúc serverless cung cấp khả năng tự động mở rộng, thực thi theo yêu cầu, giảm thiểu chi phí vận hành và chỉ tính phí cho tài nguyên được sử dụng, làm cho nó phù hợp với các khối lượng công việc AI như inference. (Nguồn: agentic-ai-serverless.pdf, trang 8)",
+    "fuzzy": {
+      "correctness_score": 0.38144329896907214,
+      "correctness_pass": false,
+      "faithfulness_score": 0.08333333333333333,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": false,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: KHÔNG\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-48",
+    "question": "Theo survey \"Beyond the Parameters: A Technical Survey of Contextual Enrichment in Large Language Models\" (Bansal & Agarwal), bốn paradigm làm giàu ngữ cảnh được khảo sát là gì và chúng được sắp xếp theo trục nào?",
+    "answer": "Theo survey \"Beyond the Parameters: A Technical Survey of Contextual Enrichment in Large Language Models\" (Bansal & Agarwal), bốn paradigm làm giàu ngữ cảnh được khảo sát là: \n\n1. Prompting \n2. Retrieval-Augmented Generation (RAG) \n3. GraphRAG \n4. CausalRAG.\n\nChúng được sắp xếp theo trục \"độ cấu trúc của ngữ cảnh\" (degree of structured context) được cung cấp tại thời điểm suy luận (inference time) [Nguồn: beyond-the-parameters-llm-survey_bansal-agarwal.pdf, trang 3].",
+    "fuzzy": {
+      "correctness_score": 0.2777777777777778,
+      "correctness_pass": false,
+      "faithfulness_score": 0.2647058823529412,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-49",
+    "question": "Theo tài liệu khóa học \"Combining Retrieved Context with Prompts\", tại sao chỉ đơn thuần truy xuất (retrieval) thông tin liên quan là chưa đủ để có câu trả lời tốt từ LLM trong hệ thống RAG?",
+    "answer": "Theo tài liệu \"Combining Retrieved Context with Prompts\" (trang 1), chỉ đơn thuần truy xuất (retrieval) thông tin liên quan là chưa đủ vì LLM cần có hướng dẫn rõ ràng về cách sử dụng thông tin này để tạo ra câu trả lời. Việc truy xuất chỉ xác định thông tin liên quan về mặt ngữ nghĩa, nhưng LLM cần được hướng dẫn cụ thể về cách tận dụng thông tin này để tạo ra câu trả lời chính xác. [Nguồn: combining-retrieved-context-with-prompts_rag-course.pdf, trang 1]",
+    "fuzzy": {
+      "correctness_score": 0.3333333333333333,
+      "correctness_pass": false,
+      "faithfulness_score": 0.058823529411764705,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": false,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: KHÔNG"
+    }
+  },
+  {
+    "id": "gs-50",
+    "question": "Bài viết của Aditya Kuppa (Oracle AI & Data Science Blog) về \"Enhancing RAG Systems with Advanced Prompting Techniques\" liệt kê những kỹ thuật prompting nâng cao nào?",
+    "answer": "Bài viết của Aditya Kuppa về \"Enhancing RAG Systems with Advanced Prompting Techniques\" liệt kê các kỹ thuật prompting nâng cao sau: few-shot prompting, chain-of-thought, và prompt chaining (theo nguồn: enhancing-rag-advanced-prompting_aditya-kuppa.pdf, trang 3). Ngoài ra, tài liệu cũng đề cập đến việc sử dụng các kỹ thuật như structuring prompts với clear instructions, relevant context, và logical reasoning để hướng dẫn các mô hình ngôn ngữ lớn (LLM) tạo ra các câu trả lời chất lượng cao (theo nguồn: enhancing-rag-advanced-prompting_aditya-kuppa.pdf, trang 1).",
+    "fuzzy": {
+      "correctness_score": 0.11538461538461539,
+      "correctness_pass": false,
+      "faithfulness_score": 0.18292682926829268,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-51",
+    "question": "Nghiên cứu \"Enhancing Retrieval-Augmented Generation: A Study of Best Practices\" (Siran Li et al., Đại học Tübingen) đề xuất 9 câu hỏi nghiên cứu về RAG, trong đó 4 câu hỏi cuối là đóng góp mới (novel contributions) của bài báo. Đó là những kỹ thuật nào?",
+    "answer": "Không tìm thấy thông tin về nghiên cứu \"Enhancing Retrieval-Augmented Generation: A Study of Best Practices\" (Siran Li et al., Đại học Tübingen) trong tài liệu được cung cấp. Do đó, không thể xác định được 4 câu hỏi cuối là đóng góp mới (novel contributions) của bài báo.",
+    "fuzzy": {
+      "correctness_score": 0.06666666666666667,
+      "correctness_pass": false,
+      "faithfulness_score": 0.08163265306122448,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": false,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: KHÔNG"
+    }
+  },
+  {
+    "id": "gs-52",
+    "question": "Theo trang \"List of available metrics\" của Ragas, những metric nào thuộc nhóm \"Retrieval Augmented Generation\"?",
+    "answer": "Không tìm thấy thông tin về trang \"List of available metrics\" của Ragas trong tài liệu được cung cấp. Tuy nhiên, theo tài liệu \"what-is-rag-evaluation-frameworks-2026.pdf\" trang 2, có thể thấy rằng các metric thuộc nhóm \"Retrieval Augmented Generation\" được đánh giá qua 3 lớp: \n\n1. Retrieval (lấy lại thông tin): đo lường bằng context precision, context recall, MRR, và hit-rate at k.\n2. Generation (tạo ra thông tin): đo lường bằng faithfulness (groundedness), answer relevance, và context utilization.\n3. End-to-end (từ đầu đến cuối): đo lường bằng answer correctness, helpfulness, và refusal calibration.\n\n[Nguồn: what-is-rag-evaluation-frameworks-2026.pdf, trang 2]",
+    "fuzzy": {
+      "correctness_score": 0.35294117647058826,
+      "correctness_pass": false,
+      "faithfulness_score": 0.23711340206185566,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": false,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: KHÔNG"
+    }
+  },
+  {
+    "id": "gs-53",
+    "question": "Bài nghiên cứu \"Mitigating Hallucinations in Large Language Models via Retrieval-Augmented Generation\" định nghĩa \"hallucination\" (ảo giác/bịa đặt thông tin) là gì?",
+    "answer": "Theo bài nghiên cứu \"Mitigating Hallucinations in Large Language Models via Retrieval-Augmented Generation\" (trang 2), \"hallucination\" (ảo giác/bịa đặt thông tin) được định nghĩa là việc các mô hình ngôn ngữ lớn tạo ra các đầu ra thông tin sai lệch hoặc không thể xác minh, mặc dù chúng có thể có vẻ thông minh và phù hợp về mặt ngữ pháp và ngữ nghĩa. (Nguồn: mitigating-hallucinations-in-llms-via-rag_academic-research.pdf, trang 2)",
+    "fuzzy": {
+      "correctness_score": 0.2235294117647059,
+      "correctness_pass": false,
+      "faithfulness_score": 0.10144927536231885,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-54",
+    "question": "Theo bài Wikipedia về \"Prompt engineering\", context engineering (một khái niệm liên quan) tập trung quản lý những yếu tố nào?",
+    "answer": "Theo bài Wikipedia về \"Prompt engineering\", context engineering (một khái niệm liên quan) tập trung vào việc quản lý các yếu tố như hệ thống hướng dẫn, kiến thức được thu thập, định nghĩa công cụ, tóm tắt cuộc trò chuyện và siêu dữ liệu nhiệm vụ (system instructions, retrieved knowledge, tool definitions, conversation summaries, and task metadata) [Nguồn: prompt-engineering_wikipedia.pdf, trang 1].",
+    "fuzzy": {
+      "correctness_score": 0.21518987341772153,
+      "correctness_pass": false,
+      "faithfulness_score": 0.1774193548387097,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-55",
+    "question": "Theo bài viết \"RAG Evaluation Metrics: Best Practices for Evaluating RAG Systems\", quy trình RAG cơ bản gồm những giai đoạn nào?",
+    "answer": "Theo tài liệu \"vector-database-survey-storage-retrieval_le-ma.pdf\" (trang 19), quy trình RAG cơ bản gồm 3 giai đoạn chính: \n1. lưu trữ dữ liệu (data storage), \n2. truy xuất thông tin (information retrieval), \n3. tạo nội dung (content generation) [Nguồn: vector-database-survey-storage-retrieval_le-ma.pdf, trang 19].",
+    "fuzzy": {
+      "correctness_score": 0.056179775280898875,
+      "correctness_pass": false,
+      "faithfulness_score": 0.075,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": false,
+      "correctness_pass": false,
+      "raw": "FAITHFULNESS: KHÔNG\nCORRECTNESS: KHÔNG"
+    }
+  },
+  {
+    "id": "gs-56",
+    "question": "Theo bài viết của Michael Brenndoerfer \"RAG Evaluation: Metrics for Retrieval and Generation Quality\", \"RAG Triad\" gồm ba khía cạnh nào để chẩn đoán hệ thống RAG đang lỗi ở đâu?",
+    "answer": "Theo bài viết của Michael Brenndoerfer \"RAG Evaluation: Metrics for Retrieval and Generation Quality\", \"RAG Triad\" gồm ba khía cạnh sau để chẩn đoán hệ thống RAG đang lỗi ở đâu: \n\n1. Context relevance (tương quan ngữ cảnh): Hệ thống có tìm được thông tin đúng không?\n2. Faithfulness (độ trung thực): Hệ thống có sử dụng thông tin tìm được một cách chính xác không?\n3. Answer relevance (tương quan câu trả lời): Câu trả lời có phù hợp với yêu cầu của người dùng không?\n\n(Nguồn: rag-evaluation-metrics-retrieval-generation-quality_michael-brenndoerfer.pdf, trang 2, 21, 44)",
+    "fuzzy": {
+      "correctness_score": 0.16883116883116883,
+      "correctness_pass": false,
+      "faithfulness_score": 0.10752688172043011,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-57",
+    "question": "Theo bài viết của IBM \"RAG vs. fine-tuning vs. prompt engineering\", trong ba phương pháp này, phương pháp nào đòi hỏi nhiều tài nguyên tính toán nhất và phương pháp nào ít tốn kém nhất?",
+    "answer": "Theo bài viết của IBM \"RAG vs. fine-tuning vs. prompt engineering\" (trang 3), phương pháp đòi hỏi nhiều tài nguyên tính toán nhất là Fine-tuning vì quá trình chuẩn bị dữ liệu và huấn luyện rất tốn thời gian và tài nguyên tính toán. Ngược lại, phương pháp ít tốn kém nhất là Prompt engineering, vì nó có thể được thực hiện thủ công mà không cần đầu tư thêm vào tài nguyên tính toán (rag-vs-fine-tuning-vs-prompt-engineering_ibm.pdf, trang 3).",
+    "fuzzy": {
+      "correctness_score": 0.38461538461538464,
+      "correctness_pass": false,
+      "faithfulness_score": 0.07692307692307693,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-58",
+    "question": "Bài báo \"Ragas: Automated Evaluation of Retrieval Augmented Generation\" (Shahul Es et al.) tập trung vào ba khía cạnh chất lượng nào để đánh giá RAG mà không cần dữ liệu tham chiếu (reference-free)?",
+    "answer": "Bài báo \"Ragas: Automated Evaluation of Retrieval Augmented Generation\" (Shahul Es et al.) tập trung vào ba khía cạnh chất lượng sau để đánh giá RAG mà không cần dữ liệu tham chiếu (reference-free): \n\n1. Faithfulness (tính trung thực): liệu câu trả lời có được dựa trên ngữ cảnh đã thu thập hay không.\n2. Answer relevance (tính liên quan của câu trả lời): liệu câu trả lời có thực sự trả lời câu hỏi hay không.\n3. Context relevance (tính liên quan của ngữ cảnh): liệu ngữ cảnh thu thập có đủ tập trung vào chủ đề hay không.\n\n(Nguồn: ragas-automated-evaluation-of-rag_shahul-es.pdf, trang 5 và trang 2)",
+    "fuzzy": {
+      "correctness_score": 0.3333333333333333,
+      "correctness_pass": false,
+      "faithfulness_score": 0.09345794392523364,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-59",
+    "question": "Theo tài liệu so sánh \"RAGAS vs DeepEval\", deepeval khuyến nghị người dùng nên dùng RAG metrics gốc (native) của deepeval thay vì RagasMetric vì những lý do gì?",
+    "answer": "Theo tài liệu \"RAGAS vs DeepEval\" (trang 1), deepeval khuyến nghị người dùng nên dùng RAG metrics gốc (native) của deepeval thay vì RagasMetric vì những lý do sau:\n\n- Deepeval's RAG metrics generates a reason that corresponds to the score equation, trong khi cả ragas và deepeval đều có các phương trình gắn liền với các chỉ số mặc định, nhưng deepeval kết hợp lý do của các thẩm phán LLM (Large Language Model) dọc theo quá trình.\n- Deepeval's RAG metrics là debuggable, cho phép người dùng kiểm tra các phán quyết của các thẩm phán LLM để xem tại sao điểm số lại như vậy.\n- Deepeval's RAG metrics là JSON confineable, giúp người dùng có thể sử dụng bất kỳ mô hình LLM tùy chỉnh nào cho việc đánh giá và giới hạn JSON trong vài dòng mã.\n- Deepeval's RAG metrics tích hợp hoàn toàn với hệ sinh thái của deepeval, cung cấp các tính năng như bộ nhớ đệm chỉ số, hỗ trợ tích hợp pytest, xử lý lỗi hạng nhất, có sẵn trên Confident AI, và nhiều hơn nữa.\n\nTóm lại, deepeval khuyến nghị sử dụng RAG metrics gốc của mình vì chúng đã được chứng minh là hoạt động tốt và cung cấp nhiều tính năng hơn so với RagasMetric. (Nguồn: ragas-vs-deepeval-llm-evaluation-framework.pdf, trang 1)",
+    "fuzzy": {
+      "correctness_score": 0.375,
+      "correctness_pass": false,
+      "faithfulness_score": 0.14414414414414414,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-60",
+    "question": "Theo tiêu đề và phần mở đầu của bài báo WIRED \"Reduce AI Hallucinations With This Neat Software Trick\", RAG được mô tả như thế nào?",
+    "answer": "Theo tiêu đề và phần mở đầu của bài báo WIRED \"Reduce AI Hallucinations With This Neat Software Trick\", RAG được mô tả như một quá trình \"buzzy\" (tạo ra sự chú ý) có tên là retrieval augmented generation (RAG), đang được áp dụng ở Thung lũng Silicon và cải thiện đầu ra của các mô hình ngôn ngữ lớn (theo nguồn: reduce-ai-hallucinations-with-neat-software-trick_wired.pdf, trang 1).",
+    "fuzzy": {
+      "correctness_score": 0.5116279069767442,
+      "correctness_pass": true,
+      "faithfulness_score": 0.13846153846153847,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-61",
+    "question": "Theo \"Prompt Engineering Guide\" (phần Retrieval Augmented Generation), ai là người đề xuất phương pháp RAG, và RAG kết hợp những thành phần nào?",
+    "answer": "Theo \"retrieval-augmented-generation-rag_prompt-engineering-guide.pdf\" (trang 1), Meta AI researchers là những người đề xuất phương pháp Retrieval Augmented Generation (RAG). RAG kết hợp một thành phần truy xuất thông tin (information retrieval component) với một mô hình tạo văn bản (text generator model).",
+    "fuzzy": {
+      "correctness_score": 0.3291139240506329,
+      "correctness_pass": false,
+      "faithfulness_score": 0.21951219512195122,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-62",
+    "question": "Theo survey \"Retrieval-Augmented Generation: A Comprehensive Survey of Architectures, Enhancements, and Robustness Frontiers\" (Chaitanya Sharma), những thách thức mới nào phát sinh khi tích hợp retrieval với generation trong RAG?",
+    "answer": "Theo survey \"Retrieval-Augmented Generation: A Comprehensive Survey of Architectures, Enhancements, and Robustness Frontiers\" (Chaitanya Sharma), những thách thức mới phát sinh khi tích hợp retrieval với generation trong RAG bao gồm:\n\n- Retrieval noise và redundancy có thể làm giảm chất lượng đầu ra (trang 1)\n- Sự không phù hợp giữa bằng chứng được thu thập và văn bản được tạo ra có thể dẫn đến việc tạo ra thông tin không chính xác (trang 1)\n- Pipeline không hiệu quả và độ trễ có thể làm tăng chi phí triển khai (trang 1)\n- Cân bằng giữa tính模块 (modularity) và sự tương tác chặt chẽ giữa retrieval và generation vẫn là một vấn đề kiến trúc mở (trang 1)\n\n(Nguồn: retrieval-augmented-generation-survey_chaitanya-sharma.pdf, trang 1)",
+    "fuzzy": {
+      "correctness_score": 0.40860215053763443,
+      "correctness_pass": true,
+      "faithfulness_score": 0.12,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-63",
+    "question": "Theo bài \"Top 5 Tools to Evaluate RAG Performance in 2026\", năm nền tảng đánh giá RAG hàng đầu được so sánh là gì, và Maxim AI nổi bật ở điểm nào?",
+    "answer": "Năm nền tảng đánh giá RAG hàng đầu được so sánh trong bài \"Top 5 Tools to Evaluate RAG Performance in 2026\" là Maxim AI, LangSmith, Arize Phoenix, RAGAS và DeepEval (theo nguồn \"top-5-tools-to-evaluate-rag-performance-2026.pdf\", trang 1). \n\nMaxim AI nổi bật ở điểm nó cung cấp một phương pháp tiếp cận toàn diện, kết hợp thử nghiệm, mô phỏng, đánh giá và quan sát trong một nền tảng duy nhất, được thiết kế cho sự hợp tác giữa các chức năng khác nhau (theo nguồn \"top-5-tools-to-evaluate-rag-performance-2026.pdf\", trang 1 và trang 3).",
+    "fuzzy": {
+      "correctness_score": 0.6379310344827587,
+      "correctness_pass": true,
+      "faithfulness_score": 0.1111111111111111,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-64",
+    "question": "Theo bài \"What is RAG Evaluation? Frameworks, Metrics, and Gates in 2026\", ba lớp (layer) mà một hệ thống RAG cần được đánh giá riêng biệt là gì, và tại sao?",
+    "answer": "Theo bài \"What is RAG Evaluation? Frameworks, Metrics, and Gates in 2026\" (trang 8), ba lớp mà một hệ thống RAG cần được đánh giá riêng biệt là:\n\n1. **Retrieval (lớp truy xuất)**: Kiểm tra xem các đoạn thông tin (chunks) được truy xuất có chính xác hay không.\n2. **Generation (lớp tạo sinh)**: Kiểm tra xem mô hình có sử dụng các đoạn thông tin được truy xuất một cách hiệu quả hay không.\n3. **End-to-end (lớp đầu cuối)**: Kiểm tra xem câu trả lời cuối cùng có chính xác, có căn cứ và hữu ích hay không.\n\nĐiều này là cần thiết vì đánh giá chỉ dựa trên một chỉ số (single-metric eval) có thể bỏ qua lớp nào đó bị lỗi. Ví dụ, một câu trả lời cuối cùng có thể chính xác nhưng được tạo ra từ thông tin không chính xác do mô hình \"hình dung\" (hallucinated) (trang 1). Việc đánh giá riêng biệt từng lớp giúp xác định được nguyên nhân của lỗi và cải thiện hệ thống.",
+    "fuzzy": {
+      "correctness_score": 0.2956521739130435,
+      "correctness_pass": false,
+      "faithfulness_score": 0.05747126436781609,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": true,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: CÓ\nCORRECTNESS: CÓ"
+    }
+  },
+  {
+    "id": "gs-65",
+    "question": "Theo bài viết của IBM \"What is retrieval augmented generation (RAG)?\", vì sao RAG giúp giảm nguy cơ hallucination so với một mô hình sinh chỉ dựa trên dữ liệu huấn luyện?",
+    "answer": "Theo bài viết không được cung cấp đầy đủ, nhưng dựa trên thông tin từ các nguồn khác trong phần NGỮ CẢNH, có thể thấy rằng RAG giúp giảm nguy cơ hallucination bằng cách cho phép mô hình sinh truy xuất và kết hợp thông tin mới từ nguồn kiến thức bên ngoài, chẳng hạn như cơ sở dữ liệu hoặc tài liệu, thay vì chỉ dựa vào dữ liệu huấn luyện sẵn có.\n\nCụ thể, như được đề cập trong nguồn \"retrieval-augmented-generation-for-large-language-models-a-survey_yunfan-gao.pdf\" (trang 1), RAG giúp giảm nguy cơ hallucination bằng cách \"truy xuất các đoạn tài liệu liên quan từ cơ sở kiến thức bên ngoài thông qua tính toán tương đồng ngữ nghĩa\" và \"giảm hiệu quả vấn đề tạo ra nội dung không chính xác về mặt事 thực\".\n\nNgoài ra, nguồn \"mitigating-hallucinations-in-llms-via-rag_academic-research.pdf\" (trang 26) cũng đề cập rằng RAG giúp giảm nguy cơ hallucination bằng cách \"tích hợp truy xuất kiến thức bên ngoài vào quá trình sinh\" và \"biến mô hình ngôn ngữ từ các bộ dự đoán thế giới đóng thành các hệ thống nhận thức bằng chứng có thể tạo ra đầu ra đáng tin cậy và phù hợp với ngữ cảnh hơn\".\n\nTuy nhiên, cần lưu ý rằng RAG không phải là giải pháp hoàn hảo và vẫn có thể gặp phải các hạn chế và thách thức, như được đề cập trong nguồn \"retrieval-augmented-generation-rag_wikipedia.pdf\" (trang 3).",
+    "fuzzy": {
+      "correctness_score": 0.184,
+      "correctness_pass": false,
+      "faithfulness_score": 0.02127659574468085,
+      "faithfulness_pass": false
+    },
+    "llm_judge": {
+      "faithfulness_pass": false,
+      "correctness_pass": true,
+      "raw": "FAITHFULNESS: KHÔNG\nCORRECTNESS: CÓ"
+    }
+  }
+]

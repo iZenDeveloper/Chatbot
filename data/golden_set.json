@@ -1,0 +1,587 @@
+[
+  {
+    "id": "gs-01",
+    "question": "Grammarly ra mắt vào năm nào và nó hỗ trợ người dùng những gì?",
+    "expected_answer": "Grammarly ra mắt từ năm 2009, giúp phát hiện và đề xuất sửa lỗi ngữ pháp, chính tả, dấu câu và phong cách viết.",
+    "source": "data/raw/personal/ai-va-ung-dung-trong-day-hoc-ngoai-ngu_bui-thi-minh.pdf",
+    "page": 3,
+    "context_snippet": "Ra mắt từ năm 2009, Grammarly đã không ngừng phát triển và trở thành một công cụ hữu ích... phát hiện và đề xuất sửa lỗi ngữ pháp, chính tả, dấu câu, và phong cách viết.",
+    "category": "personal"
+  },
+  {
+    "id": "gs-02",
+    "question": "ChatGPT do công ty nào phát triển, ra mắt vào thời điểm nào và dựa trên nền tảng mô hình nào?",
+    "expected_answer": "ChatGPT do công ty OpenAI (Mỹ) phát triển, ra mắt vào tháng 11 năm 2022, được xây dựng dựa trên GPT-3.5.",
+    "source": "data/raw/personal/nghien-cuu-anh-huong-ai-giao-duc-hoc-tap-sinh-vien_bui-trong-tai-nguyen-minh-tuan.pdf",
+    "page": 3,
+    "context_snippet": "Chatbot ChatGPT do công ty OpenAI của Mỹ phát triển và ra mắt vào tháng 11 năm 2022 được xây dựng dựa trên GPT-3.5.",
+    "category": "personal"
+  },
+  {
+    "id": "gs-03",
+    "question": "Nghiên cứu tổng quan của Nguyễn Thị Hồng Chuyên dựa trên nguồn dữ liệu nào, trong khoảng thời gian nào, và bao nhiêu bài báo được đưa vào phân tích?",
+    "expected_answer": "Dựa trên nguồn dữ liệu Scopus từ tháng 1/2017 đến tháng 7/2023, sử dụng mô hình PRISMA để chọn bài, với 25 bài báo khoa học được đưa vào phân tích.",
+    "source": "data/raw/personal/overview-study-ai-in-teaching_nguyen-thi-hong-chuyen.pdf",
+    "page": 1,
+    "context_snippet": "based on the Scopus data source from January 2017 to July 2023. The PRISMA model is used to guide the selection of articles... 25 scientific articles were included for analysis.",
+    "category": "personal"
+  },
+  {
+    "id": "gs-04",
+    "question": "Theo bài viết của Nguyễn Đăng Khoa và Nguyễn Quốc Hưng, AI bao gồm những khả năng nào?",
+    "expected_answer": "Học máy (machine learning), lập luận (reasoning), tự điều chỉnh (self-correction), hiểu ngôn ngữ tự nhiên, và nhận dạng hình ảnh/âm thanh/môi trường xung quanh.",
+    "source": "data/raw/personal/phat-trien-ung-dung-ai-giao-duc-dai-hoc-vn_nguyen-dang-khoa-nguyen-quoc-hung.pdf",
+    "page": 2,
+    "context_snippet": "AI bao gồm các khả năng như: Học máy (Machine learning)... Lập luận (Reasoning)... Tự điều chỉnh (Self-correction)... Hiểu ngôn ngữ tự nhiên... Nhận dạng hình ảnh, âm thanh hoặc môi trường xung quanh.",
+    "category": "personal"
+  },
+  {
+    "id": "gs-05",
+    "question": "Nghiên cứu so sánh của Phạm Ngọc Thạch và cộng sự khảo sát bao nhiêu người, ở bao nhiêu trường đại học và vùng miền nào?",
+    "expected_answer": "Khảo sát khoảng 900 người (SV và GV) từ 8 trường đại học ở 3 vùng miền của Việt Nam (Bắc, Trung, Nam).",
+    "source": "data/raw/personal/su-dung-ai-trong-day-hoc-ngoai-ngu-nghien-cuu-so-sanh_pham-ngoc-thach-et-al.pdf",
+    "page": 4,
+    "context_snippet": "tiến hành khảo sát với khoảng 900 người, bao gồm SV và GV đang học và dạy ngoại ngữ... từ 08 trường đại học ở 03 vùng miền của Việt Nam (miền Bắc, Trung, Nam).",
+    "category": "personal"
+  },
+  {
+    "id": "gs-06",
+    "question": "Theo Ng và cộng sự (2024), bốn miền đánh giá năng lực sử dụng AI của giáo viên là gì?",
+    "expected_answer": "Biết và hiểu; sử dụng và ứng dụng; đánh giá - tạo dựng; và vấn đề đạo đức trong sử dụng.",
+    "source": "data/raw/personal/su-dung-ai-trong-day-hoc-ngoai-ngu-nghien-cuu-so-sanh_pham-ngoc-thach-et-al.pdf",
+    "page": 3,
+    "context_snippet": "Theo Ng và cộng sự (2024), bốn miền đánh giá năng lực sử dụng AI của GV là: Biết và hiểu, sử dụng và ứng dụng, đánh giá-tạo dựng và cuối cùng là vấn đề đạo đức trong sử dụng.",
+    "category": "personal"
+  },
+  {
+    "id": "gs-07",
+    "question": "Ai là hai nhà khoa học đặt nền móng cho AI vào những năm 1950, và mốc quan trọng nào diễn ra năm 1956?",
+    "expected_answer": "Alan Turing và John McCarthy đặt nền móng cho AI. Alan Turing công bố bài báo 'Computing Machinery and Intelligence' (1950). Năm 1956, tại hội nghị Dartmouth, đề xuất phát triển AI được chính thức công nhận.",
+    "source": "data/raw/personal/tong-quan-ai-va-van-de-phap-ly_le-bo-linh.pdf",
+    "page": 2,
+    "context_snippet": "bắt đầu từ những năm 1950 với các nghiên cứu của các nhà khoa học như Alan Turing và John McCarthy... Năm 1956, tại hội nghị Dartmouth, đề xuất phát triển AI đã được chính thức công nhận.",
+    "category": "personal"
+  },
+  {
+    "id": "gs-08",
+    "question": "Bài viết về xu thế bảo hộ sáng chế AI được tổng hợp từ tài liệu nghiên cứu nào, của tổ chức nào?",
+    "expected_answer": "Tổng hợp từ tài liệu 'WIPO Technology Trends 2019: Artificial Intelligence' của Tổ chức Sở hữu trí tuệ thế giới (WIPO).",
+    "source": "data/raw/personal/xu-the-bao-ho-sang-che-va-nghien-cuu-ai_wipo-2019.pdf",
+    "page": 1,
+    "context_snippet": "Bài viết được tổng hợp từ tài liệu nghiên cứu \"WIPO Technology Trends 2019: Artificial Intelligence\" của Tổ chức Sở hữu trí tuệ thế giới.",
+    "category": "personal"
+  },
+  {
+    "id": "gs-09",
+    "question": "Trong cuốn 'Deep Learning cơ bản', chương III giới thiệu bài toán nào và thuật toán nào để giải nó?",
+    "expected_answer": "Chương III giới thiệu bài toán Neural Network — xương sống của Deep Learning — và thuật toán Backpropagation để giải bài toán này, kèm hướng dẫn code từ đầu bằng Python.",
+    "source": "data/raw/personal/deep-learning-co-ban_nguyen-thanh-tuan_v2.pdf",
+    "page": 5,
+    "context_snippet": "Chương III, tôi giới thiệu về bài toán Neural Network cũng chính là xương sống của Deep Learning và thuật toán Backpropagation để giải bài toán này.",
+    "category": "personal"
+  },
+  {
+    "id": "gs-10",
+    "question": "Trong lần tái bản thứ hai của sách 'Deep Learning cơ bản', tác giả đã thêm những nội dung mới nào?",
+    "expected_answer": "Thêm chương GAN, bài sequence to sequence và attention, hướng dẫn dùng YOLO detect biển số xe, visualize CNN, so sánh các loss function cho linear regression, giải linear regression bằng đại số tuyến tính, viết lại phần Python cơ bản, thêm word embedding và batch normalization.",
+    "source": "data/raw/personal/deep-learning-co-ban_nguyen-thanh-tuan_v2.pdf",
+    "page": 7,
+    "context_snippet": "Thêm chương GAN. Viết bài sequence to sequence và attention. Viết bài hướng dẫn dùng yolo để detect biển số xe. Thêm phần visualize CNN...",
+    "category": "personal"
+  },
+  {
+    "id": "gs-11",
+    "question": "Những công cụ AI hỗ trợ học ngoại ngữ nào được đề cập trong bài viết của Bùi Thị Minh?",
+    "expected_answer": "Elsa Speak (luyện phát âm), FluentU (học qua video thực tế), và Grammarly (sửa ngữ pháp, chính tả).",
+    "source": "data/raw/personal/ai-va-ung-dung-trong-day-hoc-ngoai-ngu_bui-thi-minh.pdf",
+    "page": 3,
+    "context_snippet": "Elsa Speak phù hợp với nhiều đối tượng người dùng muốn tự tin hơn... FluentU... Grammarly...",
+    "category": "personal"
+  },
+  {
+    "id": "gs-12",
+    "question": "Pydantic là gì theo tài liệu SUSE Best Practices, và tài liệu có bao nhiêu phần mục lục chính?",
+    "expected_answer": "Pydantic là một thư viện Python mạnh mẽ dùng cho data validation (kiểm tra dữ liệu) và settings management (quản lý cấu hình). Tài liệu có 12 phần mục lục chính (Introduction, BaseModel, Field, Annotated, validators, dumping model data, computed fields, nested models, serialization, FAQs, Legal notice, GNU FDL).",
+    "source": "data/raw/public/introduction-to-pydantic_suse-best-practices.pdf",
+    "page": 2,
+    "context_snippet": "This document provides an introduction to Pydantic, a powerful Python library designed for data validation and settings management.",
+    "category": "public"
+  },
+  {
+    "id": "gs-13",
+    "question": "Thư viện Requests hỗ trợ chính thức những phiên bản Python nào?",
+    "expected_answer": "Requests hỗ trợ chính thức Python 3.10 trở lên, và chạy tốt trên PyPy.",
+    "source": "data/raw/public/requests-documentation_kenneth-reitz.pdf",
+    "page": 7,
+    "context_snippet": "Requests officially supports Python 3.10+, and runs great on PyPy.",
+    "category": "public"
+  },
+  {
+    "id": "gs-14",
+    "question": "Bài báo VILA đề xuất phương pháp gì để cải thiện trích xuất nội dung có cấu trúc từ PDF khoa học, và I-VILA cải thiện được bao nhiêu Macro F1?",
+    "expected_answer": "VILA mô hình hoá tường minh các nhóm VIsual LAyout (VILA) — tức các dòng/khối văn bản — bằng cách chèn token đặc biệt đánh dấu ranh giới nhóm layout vào đầu vào mô hình (I-VILA), giúp cải thiện 1.9% Macro F1 trong phân loại token.",
+    "source": "data/raw/personal/vila-structured-content-extraction-scientific-pdfs_shen-et-al-2021.pdf",
+    "page": 1,
+    "context_snippet": "In our I-VILA approach, we show that simply inserting special tokens denoting layout group boundaries into model inputs can lead to a 1.9% Macro F1 improvement in token classification.",
+    "category": "personal"
+  },
+  {
+    "id": "gs-15",
+    "question": "TrOCR là gì và nó khác với các phương pháp OCR truyền thống (dựa trên CNN/RNN) như thế nào?",
+    "expected_answer": "TrOCR (Transformer-based Optical Character Recognition) là phương pháp nhận dạng văn bản end-to-end dùng Transformer đã pre-train cho cả phần hiểu ảnh và sinh text ở mức wordpiece, thay vì kiến trúc truyền thống dùng CNN để hiểu ảnh và RNN để sinh text ký tự, vốn cần thêm một mô hình ngôn ngữ hậu xử lý để tăng độ chính xác.",
+    "source": "data/raw/personal/trocr-transformer-based-ocr_li-et-al-2021.pdf",
+    "page": 1,
+    "context_snippet": "we propose an end-to-end text recognition approach with pre-trained image Transformer and text Transformer models, namely TrOCR, which leverages the Transformer architecture for both image understanding and wordpiece-level text generation.",
+    "category": "personal"
+  },
+  {
+    "id": "gs-16",
+    "question": "Theo bài báo của Demiao Lin (ChatDOC), nguyên nhân chính khiến hệ thống RAG cho hỏi đáp tri thức chuyên ngành hoạt động kém hiệu quả là gì?",
+    "expected_answer": "Vì tài liệu chuyên ngành chủ yếu được lưu ở dạng PDF, và độ chính xác thấp khi parse PDF ảnh hưởng đáng kể tới hiệu quả của hệ thống hỏi đáp tri thức chuyên ngành (professional knowledge-based QA) dùng RAG.",
+    "source": "data/raw/personal/revolutionizing-rag-with-enhanced-pdf-structure-recognition_demiao-lin-2024.pdf",
+    "page": 1,
+    "context_snippet": "since professional documents are mainly stored in PDFs, the low accuracy of PDF parsing significantly impacts the effectiveness of professional knowledge-based QA.",
+    "category": "personal"
+  },
+  {
+    "id": "gs-17",
+    "question": "Docling là gì và được phát triển bởi tổ chức nào?",
+    "expected_answer": "Docling là một công cụ mã nguồn mở được phát triển bởi IBM Deep Search, dùng để chuyển đổi và xử lý tài liệu (PDF, Word, PowerPoint, Excel, HTML, hình ảnh...) sang các định dạng có cấu trúc như Markdown hoặc JSON để mô hình AI đọc và xử lý.",
+    "source": "data/raw/personal/docling-la-gi-cac-tinh-nang_pavietnam.pdf",
+    "page": 1,
+    "context_snippet": "Docling là một công cụ mã nguồn mở (open-source tool) được phát triển bởi IBM Deep Search... chuyển đổi và xử lý tài liệu... sang các định dạng có cấu trúc như Markdown hoặc JSON.",
+    "category": "personal"
+  },
+  {
+    "id": "gs-18",
+    "question": "Theo bài viết của Arun Venkataswamy (Unstract), LLMWhisperer được giới thiệu để giải quyết vấn đề gì?",
+    "expected_answer": "LLMWhisperer được giới thiệu là công cụ OCR tốt nhất để trích xuất dữ liệu từ các biểu mẫu viết tay (handwritten forms), giải quyết các khó khăn trong việc trích xuất text có ý nghĩa từ PDF cho ứng dụng RAG/LLM.",
+    "source": "data/raw/personal/pdf-hell-and-practical-rag-applications_arun-venkataswamy-unstract.pdf",
+    "page": 1,
+    "context_snippet": "5. LLMWhisperer: Best OCR to Extract Data from Handwritten Forms ... 9. Features of LLMWhisperer ... 10. Get started with LLMWhisperer: Best OCR for AI Document Processing",
+    "category": "personal"
+  },
+  {
+    "id": "gs-19",
+    "question": "Theo báo cáo Statista (2024) được trích trong bài viết của Nguyễn Minh Hải (VNPT AI), mỗi ngày thế giới tạo ra bao nhiêu dữ liệu mới và phần lớn ở dạng nào?",
+    "expected_answer": "Mỗi ngày thế giới tạo ra hơn 400 triệu terabyte dữ liệu mới, phần lớn ở dạng văn bản phi cấu trúc như email, hợp đồng, báo cáo hay hóa đơn.",
+    "source": "data/raw/personal/text-extraction-cong-nghe-trich-xuat-van-ban_nguyen-minh-hai-vnpt.pdf",
+    "page": 1,
+    "context_snippet": "Theo báo cáo của Statista (2024), mỗi ngày thế giới tạo ra hơn 400 triệu terabyte dữ liệu mới, trong đó phần lớn ở dạng văn bản phi cấu trúc như email, hợp đồng, báo cáo hay hóa đơn.",
+    "category": "personal"
+  },
+  {
+    "id": "gs-20",
+    "question": "Theo bài viết của Zilliz, 3 lĩnh vực chính cần chú ý để dùng embedding hiệu quả trong RAG là gì?",
+    "expected_answer": "Chọn và tinh chỉnh embedding model, tối ưu hoá tiền xử lý & lưu trữ dữ liệu, và đảm bảo retrieval hiệu quả.",
+    "source": "data/raw/personal/best-practices-for-using-embeddings-in-rag-systems_zilliz-vector-database.pdf",
+    "page": 1,
+    "context_snippet": "The best practices for using embeddings in RAG (Retrieval-Augmented Generation) systems revolve around three key areas: selecting and tuning embedding models, optimizing data preprocessing and storage, and ensuring efficient retrieval.",
+    "category": "personal"
+  },
+  {
+    "id": "gs-21",
+    "question": "Bài báo của Caspari và cộng sự đề xuất phương pháp gì để đánh giá các embedding model, khác gì so với benchmark truyền thống?",
+    "expected_answer": "Đề xuất phân tích độ tương đồng (similarity) giữa các embedding do các model sinh ra, dùng như một khung đánh giá không giám sát (unsupervised) — khác với benchmark hiệu năng truyền thống vốn cần dữ liệu có nhãn.",
+    "source": "data/raw/personal/beyond-benchmarks-embedding-model-similarity-rag_caspari.pdf",
+    "page": 1,
+    "context_snippet": "we analyze different LLMs in terms of the similarities of the embeddings they generate. Our similarity analysis serves as an unsupervised evaluation framework for these embedding models, in contrast to performance benchmarks that require labelled data.",
+    "category": "personal"
+  },
+  {
+    "id": "gs-22",
+    "question": "Nghiên cứu của Wu về chunking cho code completion tập trung trả lời câu hỏi gì còn bỏ ngỏ?",
+    "expected_answer": "Liệu độ chi tiết (granularity) của chunking và các phương pháp structure-aware có vượt trội hơn cách tiếp cận sliding-window đơn giản hay không, vì các nghiên cứu trước thiếu so sánh có kiểm soát giữa các chiến lược.",
+    "source": "data/raw/personal/chunking-rag-code-completion_wu.pdf",
+    "page": 1,
+    "context_snippet": "granularity and whether structure-aware methods outperform naive sliding-window approaches remain open questions, as existing work lacks controlled cross-strategy comparison",
+    "category": "personal"
+  },
+  {
+    "id": "gs-23",
+    "question": "Trong nghiên cứu của Bennani về chunking, prompt sinh câu trả lời yêu cầu model làm gì khi ngữ cảnh không đủ thông tin?",
+    "expected_answer": "Yêu cầu model chỉ trả lời dựa trên ngữ cảnh được cung cấp; nếu ngữ cảnh không đủ thông tin, phải xuất ra \"NONE\" (từ chối trả lời) thay vì bịa đáp án.",
+    "source": "data/raw/personal/chunking-strategies-rag-reliability_bennani.pdf",
+    "page": 1,
+    "context_snippet": "The prompt enforces grounded generation and explicit abstention: 'Answer only using the provided context. If the context is insufficient, output 'NONE'.'",
+    "category": "personal"
+  },
+  {
+    "id": "gs-24",
+    "question": "Theo bài viết của Schwaber-Cohen, có 2 lý do chính nào khiến chunking cần thiết cho ứng dụng dùng vector database/LLM?",
+    "expected_answer": "(1) Đảm bảo embedding model có thể chứa dữ liệu trong giới hạn cửa sổ ngữ cảnh (context window), và (2) đảm bảo bản thân từng chunk chứa đủ thông tin cần thiết để phục vụ tìm kiếm.",
+    "source": "data/raw/personal/chunking-strategies-for-llm-applications_schwaber-cohen.pdf",
+    "page": 1,
+    "context_snippet": "to ensure embedding models can fit the data into their context windows, and to ensure the chunks themselves contain the information necessary for search.",
+    "category": "personal"
+  },
+  {
+    "id": "gs-25",
+    "question": "Trong bài hướng dẫn của Anna Gutowska, tác giả thử nghiệm các chiến lược chunking bằng công cụ/mô hình nào?",
+    "expected_answer": "Dùng LangChain kết hợp với mô hình IBM Granite trên nền tảng watsonx.ai.",
+    "source": "data/raw/personal/chunking-strategies-for-rag-langchain-watsonx-ai_anna-gutowska.pdf",
+    "page": 2,
+    "context_snippet": "you will experiment with several chunking strategies using LangChain and the latest IBM® Granite™ model now available on watsonx.ai™.",
+    "category": "personal"
+  },
+  {
+    "id": "gs-26",
+    "question": "Theo Femke Plantinga, nhiều nhà phát triển tập trung sai chỗ khi tối ưu RAG — họ thường ưu tiên gì thay vì bước quan trọng nhất?",
+    "expected_answer": "Nhiều nhà phát triển tập trung vào việc chọn đúng vector database hoặc embedding model, nhưng bước quan trọng nhất thực ra là cách chuẩn bị (chunk) dữ liệu.",
+    "source": "data/raw/personal/chunking-strategies-to-improve-llm-rag-pipeline-performance_femke-plantinga.pdf",
+    "page": 1,
+    "context_snippet": "Many developers focus on picking the right vector database or embedding model. But the most important step is often how you prepare the data itself.",
+    "category": "personal"
+  },
+  {
+    "id": "gs-27",
+    "question": "Theo bài viết của Unstructured, công cụ Ingestion của họ hỗ trợ kết nối tới những loại nguồn dữ liệu doanh nghiệp nào?",
+    "expected_answer": "Cloud storage (S3, GCS, Azure), nền tảng cộng tác (SharePoint, Confluence, Box), ứng dụng doanh nghiệp (Salesforce, Jira), cơ sở dữ liệu, và hệ thống streaming như Kafka.",
+    "source": "data/raw/personal/data-preprocessing-for-rag_unstructured.html",
+    "page": 1,
+    "context_snippet": "production-grade connectors cover the most common enterprise data systems, including cloud storage (S3, GCS, Azure), collaboration platforms (SharePoint, Confluence, Box), business apps (Salesforce, Jira), databases, and streaming systems like Kafka.",
+    "category": "personal"
+  },
+  {
+    "id": "gs-28",
+    "question": "Theo bài viết, một khách hàng fintech phát hiện ra nguyên nhân thực sự khiến kết quả RAG kém là gì, sau khi đã thử nhiều vector database khác nhau?",
+    "expected_answer": "Nguyên nhân là do dữ liệu bẩn (dirty data) chứ không phải do lựa chọn vector database — họ đã tốn nhiều tuần tinh chỉnh với các vector database khác nhau nhưng vấn đề thực sự nằm ở chất lượng dữ liệu đầu vào.",
+    "source": "data/raw/personal/document-loading-parsing-and-cleaning-in-ai-applications_jacky-liang.pdf",
+    "page": 3,
+    "context_snippet": "One fintech customer recently shared how they spent weeks fine-tuning their RAG application with different vector databases, only to realize their poor results stemmed from simply having dirty data.",
+    "category": "personal"
+  },
+  {
+    "id": "gs-29",
+    "question": "Bài viết dùng nguyên tắc nào để giải thích vì sao chunking quan trọng đối với chất lượng RAG?",
+    "expected_answer": "Nguyên tắc \"garbage in, garbage out\" — dữ liệu bị phân đoạn (chunk) kém sẽ dẫn tới kết quả không tối ưu.",
+    "source": "data/raw/personal/enhance-rag-performance-intelligent-chunking-strategies_thattantavida-sarkar.pdf",
+    "page": 1,
+    "context_snippet": "The effectiveness of a RAG system depends on the quality of retrieved data. The principle of garbage in, garbage out applies-poorly segmented data leads to suboptimal results.",
+    "category": "personal"
+  },
+  {
+    "id": "gs-30",
+    "question": "Trong bài viết của Amit Bleiweiss (NVIDIA), model reranking NeMo Retriever NIM được xây dựng dựa trên kiến trúc nào?",
+    "expected_answer": "Là một transformer encoder — phiên bản LoRA fine-tuned của Mistral-7B, chỉ dùng 16 lớp đầu để tăng throughput, với embedding cuối cùng của decoder được dùng làm pooling và một lớp phân loại nhị phân được fine-tune cho tác vụ ranking.",
+    "source": "data/raw/personal/enhancing-rag-pipelines-with-re-ranking_amit-bleiweiss.pdf",
+    "page": 1,
+    "context_snippet": "It's a transformer encoder: a LoRA fine-tuned version of Mistral-7B that uses only the first 16 layers for higher throughput.",
+    "category": "personal"
+  },
+  {
+    "id": "gs-31",
+    "question": "Nghiên cứu \"From PDF to RAG-Ready\" áp dụng được cho những lĩnh vực quản lý tài liệu nào?",
+    "expected_answer": "Quản lý tài liệu hành chính, pháp lý và quy định (administrative, legal, and regulatory document management) cho các tổ chức xử lý tài liệu nhạy cảm hoặc không phải tiếng Anh.",
+    "source": "data/raw/personal/evaluating-pdf-to-rag-conversion-frameworks_jose-paulo-marques-dos-santos-2.pdf",
+    "page": 1,
+    "context_snippet": "applicable to administrative, legal, and regulatory document management in organizations handling sensitive or non-English documentation.",
+    "category": "personal"
+  },
+  {
+    "id": "gs-32",
+    "question": "Theo Wikipedia, HNSW lưu trữ vector theo cấu trúc nào, và cấu trúc phân lớp đó hoạt động ra sao?",
+    "expected_answer": "HNSW lưu vector trong một đồ thị (graph) nhiều lớp — lớp trên chứa ít node hơn, đóng vai trò như bản đồ thô để định hướng nhanh, lớp dưới cùng chứa toàn bộ node cho tìm kiếm chi tiết. Tìm kiếm bắt đầu ở lớp trên, đi theo các liên kết tới node gần với truy vấn hơn.",
+    "source": "data/raw/personal/hierarchical-navigable-small-world-hnsw_wikipedia.pdf",
+    "page": 1,
+    "context_snippet": "HNSW stores vectors in a graph. Each vector is a node, and links connect it to some nearby vectors. The graph has several layers: upper layers contain fewer nodes and act like a rough map, while the bottom layer contains all nodes.",
+    "category": "personal"
+  },
+  {
+    "id": "gs-33",
+    "question": "Theo benchmark của Chroma Research được trích trong bài, cấu hình chunking mặc định của OpenAI Assistants (800 token, overlap 400 token) đạt độ chính xác bao nhiêu, và đây là kết quả thế nào so với các cấu hình khác?",
+    "expected_answer": "Chỉ đạt 1.4% precision — đây là cấu hình có precision thấp nhất trong tất cả các cấu hình được kiểm tra.",
+    "source": "data/raw/personal/optimal-rag-chunking-8-strategies-real-benchmarks.pdf",
+    "page": 1,
+    "context_snippet": "They tested the default OpenAI Assistants parameters: 800 tokens, 400 tokens of overlap... it's the configuration with the lowest precision across all tests. 1.4% precision.",
+    "category": "personal"
+  },
+  {
+    "id": "gs-34",
+    "question": "Theo tài liệu Azure Architecture Center, khi embed câu hỏi người dùng trong một giải pháp RAG, cần lưu ý điều gì về việc chọn model?",
+    "expected_answer": "Phải dùng đúng cùng một embedding model để embed câu hỏi người dùng như đã dùng để embed các chunk tài liệu.",
+    "source": "data/raw/personal/rag-generate-embeddings-phase_azure-architecture-center.pdf",
+    "page": 1,
+    "context_snippet": "you embed the user query by using the same embedding model as your chunks.",
+    "category": "personal"
+  },
+  {
+    "id": "gs-35",
+    "question": "RAGPerf tách quy trình RAG thành những thành phần mô-đun nào để tiện phân tích hiệu năng chi tiết?",
+    "expected_answer": "Embedding, indexing, retrieval, reranking, và generation.",
+    "source": "data/raw/personal/ragperf-end-to-end-benchmarking-framework-for-rag-systems_shaobo-li-et-al-2024.pdf",
+    "page": 1,
+    "context_snippet": "RAGPerf decouples the RAG workflow into several modular components - embedding, indexing, retrieval, reranking, and generation",
+    "category": "personal"
+  },
+  {
+    "id": "gs-36",
+    "question": "Theo ebook của Pinecone, reranker được giới thiệu như giải pháp cho tình huống nào?",
+    "expected_answer": "Khi pipeline RAG \"out-of-the-box\" (chỉ đưa tài liệu vào vector DB rồi thêm LLM) hoạt động không như mong đợi — reranker là giải pháp dễ và nhanh nhất để triển khai trong trường hợp đó.",
+    "source": "data/raw/personal/rerankers-and-two-stage-retrieval_pinecone.pdf",
+    "page": 1,
+    "context_snippet": "This ebook aims to tell you what to do when out-of-the-box RAG doesn't work... we'll be learning about rerankers.",
+    "category": "personal"
+  },
+  {
+    "id": "gs-37",
+    "question": "Theo bài Retrieval-Augmented Generation for Large Language Models: A Survey của Yunfan Gao, RAG giải quyết những hạn chế nào của LLM?",
+    "expected_answer": "Hallucination (bịa thông tin), kiến thức lỗi thời (outdated knowledge), và quá trình suy luận không minh bạch/không truy vết được (non-transparent, untraceable reasoning).",
+    "source": "data/raw/personal/retrieval-augmented-generation-for-large-language-models-a-survey_yunfan-gao.pdf",
+    "page": 1,
+    "context_snippet": "Large Language Models (LLMs) showcase impressive capabilities but encounter challenges like hallucination, outdated knowledge, and non-transparent, untraceable reasoning processes. Retrieval-Augmented Generation (RAG) has emerged as a promising solution.",
+    "category": "personal"
+  },
+  {
+    "id": "gs-38",
+    "question": "Theo Wikipedia, thuật ngữ \"retrieval-augmented generation\" (RAG) được giới thiệu lần đầu trong bối cảnh nào?",
+    "expected_answer": "Được giới thiệu trong một bài báo năm 2020, mô tả việc kết hợp một mô hình ngôn ngữ tham số hoá (parametric) với một bộ nhớ ngoài phi tham số (non-parametric external memory) được truy cập qua retrieval tại thời điểm suy luận (inference).",
+    "source": "data/raw/personal/retrieval-augmented-generation-rag_wikipedia.pdf",
+    "page": 1,
+    "context_snippet": "The term retrieval-augmented generation (RAG) was introduced in a 2020 paper that described combining a parametric language model with a non-parametric external memory accessed through retrieval at inference time.",
+    "category": "personal"
+  },
+  {
+    "id": "gs-39",
+    "question": "Theo bài báo của Abdallah, GenRead giải quyết hạn chế của các model retrieval truyền thống (BM25, DPR) bằng cách nào?",
+    "expected_answer": "GenRead trước tiên sinh ra văn bản liên quan rồi dùng văn bản đó để dự đoán câu trả lời, thay vì truy xuất tài liệu có sẵn như BM25/DPR.",
+    "source": "data/raw/personal/retrieval-to-generation_abdallah.pdf",
+    "page": 1,
+    "context_snippet": "Approaches like GenRead (Yu et al., 2022) first generate relevant text and then use it for answer prediction.",
+    "category": "personal"
+  },
+  {
+    "id": "gs-40",
+    "question": "Theo bài báo \"Searching for Best Practices in RAG\", một workflow RAG điển hình bao gồm những bước xử lý trung gian nào?",
+    "expected_answer": "Query classification (xác định câu hỏi có cần retrieval hay không) và retrieval (truy xuất tài liệu liên quan hiệu quả).",
+    "source": "data/raw/personal/searching-best-practices-retrieval-augmented-generation_xiaohua-wang-et-al.pdf",
+    "page": 1,
+    "context_snippet": "A typical RAG workflow usually contains multiple intervening processing steps: query classification (determining whether retrieval is necessary for a given input query), retrieval (efficiently obtaining relevant documents",
+    "category": "personal"
+  },
+  {
+    "id": "gs-41",
+    "question": "Theo bài viết \"Semantic Chunking: A Developer's Guide\", semantic chunking hoạt động dựa trên nguyên tắc gì, và điểm cần lưu ý theo benchmark là gì?",
+    "expected_answer": "Semantic chunking cắt văn bản tại ranh giới chủ đề (thay vì theo số token) bằng cách dùng độ tương đồng embedding để phát hiện khi các câu liền kề không còn liên quan nhau nữa. Tuy nhiên benchmark cho thấy nó không phải lúc nào cũng vượt trội hơn các cách tiếp cận đơn giản hơn — nên profile pipeline trước khi thêm overhead này.",
+    "source": "data/raw/personal/semantic-chunking-a-developers-guide_megna-anand.pdf",
+    "page": 1,
+    "context_snippet": "Semantic chunking splits text at topic boundaries rather than token counts by using embedding similarity to detect when adjacent sentences stop being related. It fixes specific retrieval problems well, but benchmarks show it isn't universally better than simpler approaches.",
+    "category": "personal"
+  },
+  {
+    "id": "gs-42",
+    "question": "Bài viết \"Ultimate Guide to Chunking Strategies\" của Debu Sinha tập trung minh hoạ việc triển khai chunking trên nền tảng nào?",
+    "expected_answer": "Databricks.",
+    "source": "data/raw/personal/ultimate-guide-chunking-strategies-rag-applications_debu-sinha.pdf",
+    "page": 1,
+    "context_snippet": "I embarked on a journey to document the best practices and implementation strategies for optimal chunking in RAG workflows - specifically on Databricks.",
+    "category": "personal"
+  },
+  {
+    "id": "gs-43",
+    "question": "Theo bài review của Toni Taipalus, VDBMS (Vector Database Management System) ra đời nhằm đáp ứng nhu cầu gì?",
+    "expected_answer": "Đáp ứng nhu cầu quản lý hiệu quả dữ liệu vector — sinh ra từ quá trình \"vectorization\" biến dữ liệu phi cấu trúc phong phú (văn bản, hình ảnh, video) thành các vector số nhiều chiều mang ngữ nghĩa, phục vụ các ứng dụng như recommender system, tìm kiếm tương đồng, chatbot.",
+    "source": "data/raw/personal/vector-database-management-systems-concepts-challenges_toni-taipalus.pdf",
+    "page": 1,
+    "context_snippet": "Managing vector data has gained increased popularity, partly due to applications such as reverse image search, recommender systems, and chatbots... efficient management of data requires a dedicated database management system (DBMS).",
+    "category": "personal"
+  },
+  {
+    "id": "gs-44",
+    "question": "Bài khảo sát của Le Ma và cộng sự về Vector Database tập trung vào những khía cạnh kỹ thuật nào theo tiêu đề?",
+    "expected_answer": "Kỹ thuật lưu trữ (storage) và truy xuất (retrieval), cùng các thách thức (challenge) liên quan đến vector database.",
+    "source": "data/raw/personal/vector-database-survey-storage-retrieval_le-ma.pdf",
+    "page": 1,
+    "context_snippet": "A Comprehensive Survey on Vector Database: Storage and Retrieval Technique, Challenge",
+    "category": "personal"
+  },
+  {
+    "id": "gs-45",
+    "question": "Theo Wikipedia, trong các benchmark gần đây, loại kỹ thuật index nào cho vector database thường đạt hiệu năng tốt nhất?",
+    "expected_answer": "Các cài đặt (implementation) dựa trên HNSW nằm trong nhóm hiệu năng tốt nhất.",
+    "source": "data/raw/personal/vector-database_wikipedia.pdf",
+    "page": 1,
+    "context_snippet": "In recent benchmarks, HNSW-based implementations have been among the best performers.",
+    "category": "personal"
+  },
+  {
+    "id": "gs-46",
+    "question": "Bài báo \"Vision-Guided Chunking\" đề xuất giải quyết vấn đề gì mà các phương pháp chunking dựa trên text truyền thống gặp khó khăn?",
+    "expected_answer": "Giải quyết vấn đề với các cấu trúc tài liệu phức tạp — bảng nhiều trang, hình ảnh nhúng, và các phụ thuộc ngữ cảnh vượt qua ranh giới trang — bằng cách dùng mô hình đa phương thức (multimodal, kết hợp thị giác + văn bản) để xử lý PDF theo batch trong khi vẫn giữ tính liên tục ngữ cảnh.",
+    "source": "data/raw/personal/vision-guided-chunking-is-all-you-need_tripathi.pdf",
+    "page": 1,
+    "context_snippet": "traditional text-based chunking methods struggle with complex document structures, multi-page tables, embedded figures, and contextual dependencies across page boundaries. We present a novel multimodal document chunking approach",
+    "category": "personal"
+  },
+  {
+    "id": "gs-47",
+    "question": "Theo tài liệu \"Building serverless architectures for agentic AI on AWS\", vì sao kiến trúc serverless phù hợp với khối lượng công việc AI, đặc biệt là inference?",
+    "expected_answer": "Vì khối lượng công việc AI, đặc biệt là inference, thường không liên tục và tốn nhiều tài nguyên tính toán (ví dụ: phát hiện gian lận, hệ thống gợi ý, tóm tắt tài liệu, tự động hóa dịch vụ khách hàng). Hạ tầng truyền thống trở nên tốn kém và phức tạp khi phải quản lý các workload không dự đoán được hoặc tăng đột biến, trong khi serverless tự động mở rộng quy mô, thực thi theo yêu cầu, giảm chi phí vận hành, và chỉ tính phí theo tài nguyên thực sự sử dụng.",
+    "source": "data/raw/personal/agentic-ai-serverless.pdf",
+    "page": 8,
+    "context_snippet": "AI applications often require intermittent, compute-intensive inference, especially in use cases such as fraud detection, recommendation engines, document summarization, and customer service automation.",
+    "category": "personal"
+  },
+  {
+    "id": "gs-48",
+    "question": "Theo survey \"Beyond the Parameters: A Technical Survey of Contextual Enrichment in Large Language Models\" (Bansal & Agarwal), bốn paradigm làm giàu ngữ cảnh được khảo sát là gì và chúng được sắp xếp theo trục nào?",
+    "expected_answer": "Bốn paradigm là: in-context learning/prompt engineering, Retrieval-Augmented Generation (RAG), GraphRAG, và CausalRAG. Chúng được trình bày theo một trục duy nhất là mức độ ngữ cảnh có cấu trúc được cung cấp tại thời điểm suy luận (inference) — càng về sau càng có cấu trúc phức tạp hơn, đánh đổi độ phức tạp lập chỉ mục cao hơn để lấy độ trung thực (faithfulness) và chất lượng lý luận tốt hơn.",
+    "source": "data/raw/personal/beyond-the-parameters-llm-survey_bansal-agarwal.pdf",
+    "page": 1,
+    "context_snippet": "We cover in-context learning and prompt engineering, Retrieval-Augmented Generation (RAG), GraphRAG, and CausalRAG. Beyond conceptual comparison, we provide a transparent literature-screening protocol",
+    "category": "personal"
+  },
+  {
+    "id": "gs-49",
+    "question": "Theo tài liệu khóa học \"Combining Retrieved Context with Prompts\", tại sao chỉ đơn thuần truy xuất (retrieval) thông tin liên quan là chưa đủ để có câu trả lời tốt từ LLM trong hệ thống RAG?",
+    "expected_answer": "Vì việc truy xuất chỉ xác định được thông tin liên quan về mặt ngữ nghĩa, nhưng LLM cần được hướng dẫn rõ ràng (thông qua prompt engineering cẩn thận) về cách sử dụng ngữ cảnh mới đó để tạo câu trả lời. Cần xây dựng prompt template có chỗ cho cả ngữ cảnh truy xuất và câu hỏi gốc, hướng dẫn mô hình ưu tiên ngữ cảnh được cung cấp thay vì chỉ dựa vào kiến thức nội tại đã huấn luyện trước.",
+    "source": "data/raw/personal/combining-retrieved-context-with-prompts_rag-course.pdf",
+    "page": 1,
+    "context_snippet": "Essentially, combining context and query involves careful prompt engineering. We need to construct a prompt that guides the LLM to prioritize the provided context when formulating its response.",
+    "category": "personal"
+  },
+  {
+    "id": "gs-50",
+    "question": "Bài viết của Aditya Kuppa (Oracle AI & Data Science Blog) về \"Enhancing RAG Systems with Advanced Prompting Techniques\" liệt kê những kỹ thuật prompting nâng cao nào?",
+    "expected_answer": "Ba kỹ thuật chính: (1) Few-shot Prompting — cung cấp vài ví dụ mẫu trước khi mô hình tạo câu trả lời để định hướng phong cách/định dạng; (2) Chain-of-Thought (CoT) Prompting — khuyến khích mô hình phân tích câu trả lời theo từng bước để tăng tính minh bạch và độ chính xác; (3) Prompt Chaining — chia câu hỏi phức tạp thành nhiều bước prompt nối tiếp nhau, mỗi bước dùng kết quả của bước trước.",
+    "source": "data/raw/personal/enhancing-rag-advanced-prompting_aditya-kuppa.pdf",
+    "page": 1,
+    "context_snippet": "Retrieval-augmented generation (RAG) is a groundbreaking AI technique that enhances generative models by integrating external knowledge sources. This approach addresses key limitations of standalone generative models",
+    "category": "personal"
+  },
+  {
+    "id": "gs-51",
+    "question": "Nghiên cứu \"Enhancing Retrieval-Augmented Generation: A Study of Best Practices\" (Siran Li et al., Đại học Tübingen) đề xuất 9 câu hỏi nghiên cứu về RAG, trong đó 4 câu hỏi cuối là đóng góp mới (novel contributions) của bài báo. Đó là những kỹ thuật nào?",
+    "expected_answer": "Bốn đóng góp mới là: Query Expansion (mở rộng câu truy vấn), Contrastive In-context Learning demonstration, sử dụng kho tri thức đa ngôn ngữ (multilingual knowledge base), và Focus Mode RAG (tập trung vào một vài câu được truy xuất thay vì toàn bộ chunk).",
+    "source": "data/raw/personal/enhancing-retrieval-augmented-generation-best-practices_siran-li.pdf",
+    "page": 2,
+    "context_snippet": "RAG systems have emerged as a promising solution to the inherent limitations of LLMs, particularly their tendency to hallucinate or generate inaccurate information",
+    "category": "personal"
+  },
+  {
+    "id": "gs-52",
+    "question": "Theo trang \"List of available metrics\" của Ragas, những metric nào thuộc nhóm \"Retrieval Augmented Generation\"?",
+    "expected_answer": "Context Precision, Context Recall, Context Entities Recall, Noise Sensitivity, Response Relevancy, Faithfulness, Multimodal Faithfulness, và Multimodal Relevance.",
+    "source": "data/raw/personal/list-of-available-metrics_ragas.pdf",
+    "page": 1,
+    "context_snippet": "Retrieval Augmented Generation Context Precision Context Recall Context Entities Recall Noise Sensitivity Response Relevancy Faithfulness Multimodal Faithfulness Multimodal Relevance",
+    "category": "personal"
+  },
+  {
+    "id": "gs-53",
+    "question": "Bài nghiên cứu \"Mitigating Hallucinations in Large Language Models via Retrieval-Augmented Generation\" định nghĩa \"hallucination\" (ảo giác/bịa đặt thông tin) là gì?",
+    "expected_answer": "Hallucination được định nghĩa là việc mô hình tạo ra các đầu ra trôi chảy về mặt ngôn ngữ nhưng sai sự thật hoặc không thể kiểm chứng được (\"the generation of fluent but factually incorrect or unverifiable outputs\"). Bài báo nghiên cứu vai trò của RAG như một cách tiếp cận có hệ thống và có thể mở rộng để giảm thiểu hallucination, bằng cách tích hợp cơ chế truy xuất kiến thức bên ngoài trực tiếp vào pipeline suy luận của mô hình.",
+    "source": "data/raw/personal/mitigating-hallucinations-in-llms-via-rag_academic-research.pdf",
+    "page": 2,
+    "context_snippet": "hallucinations, defined as the generation of fluent but factually incorrect or unverifiable outputs. This research investigates the role of Retrieval-Augmented Generation as a systematic and scalable approach for mitigating hallucinations",
+    "category": "personal"
+  },
+  {
+    "id": "gs-54",
+    "question": "Theo bài Wikipedia về \"Prompt engineering\", context engineering (một khái niệm liên quan) tập trung quản lý những yếu tố nào?",
+    "expected_answer": "Context engineering tập trung vào các yếu tố ngữ cảnh đi kèm prompt của người dùng, bao gồm: system instructions (chỉ dẫn hệ thống), retrieved knowledge (kiến thức được truy xuất), tool definitions (định nghĩa công cụ), conversation summaries (tóm tắt hội thoại), và task metadata (siêu dữ liệu tác vụ). Mục đích là cải thiện độ tin cậy, khả năng truy nguyên nguồn gốc (provenance) và hiệu quả sử dụng token trong các hệ thống LLM sản xuất.",
+    "source": "data/raw/personal/prompt-engineering_wikipedia.pdf",
+    "page": 1,
+    "context_snippet": "Context engineering is a related process that focuses on the context elements that accompany user prompts, which include system instructions, retrieved knowledge, tool definitions, conversation summaries, and task metadata.",
+    "category": "personal"
+  },
+  {
+    "id": "gs-55",
+    "question": "Theo bài viết \"RAG Evaluation Metrics: Best Practices for Evaluating RAG Systems\", quy trình RAG cơ bản gồm những giai đoạn nào?",
+    "expected_answer": "Quy trình bắt đầu bằng việc chuyển câu hỏi người dùng thành embedding bằng text-to-embedding model, sau đó tìm kiếm embedding này trong vector database để lấy các tài liệu có nội dung tương đồng về ngữ nghĩa — giai đoạn này gọi là context retrieval (truy xuất ngữ cảnh). Các tài liệu tìm được sau đó được gộp cùng câu hỏi người dùng và prompt ứng dụng cụ thể, gửi tới LLM API để tạo kết quả — giai đoạn này gọi là response generation (tạo phản hồi).",
+    "source": "data/raw/personal/rag-evaluation-metrics-best-practices_evaluating-rag-systems.pdf",
+    "page": 2,
+    "context_snippet": "The basic RAG flow starts by converting user queries into an embedding using a textto-embedding model. The generated embedding is then searched against the vector database to fetch documents that contain text with similar meaning.",
+    "category": "personal"
+  },
+  {
+    "id": "gs-56",
+    "question": "Theo bài viết của Michael Brenndoerfer \"RAG Evaluation: Metrics for Retrieval and Generation Quality\", \"RAG Triad\" gồm ba khía cạnh nào để chẩn đoán hệ thống RAG đang lỗi ở đâu?",
+    "expected_answer": "RAG Triad gồm: context relevance (mức độ liên quan của ngữ cảnh truy xuất), faithfulness (tính trung thực — câu trả lời có bám sát ngữ cảnh hay không), và answer relevance (mức độ liên quan của câu trả lời với câu hỏi). Khung này giúp xác định chính xác hệ thống đang thất bại ở khâu nào: chất lượng truy xuất, tính toàn vẹn khi sinh văn bản, hay tính hữu ích đối với người dùng.",
+    "source": "data/raw/personal/rag-evaluation-metrics-retrieval-generation-quality_michael-brenndoerfer.pdf",
+    "page": 2,
+    "context_snippet": "The \"RAG Triad\" of context relevance, faithfulness, and answer relevance gives a diagnostic framework that lets us pinpoint exactly where a system is failing, whether in retrieval quality, generation integrity, or user-facing utility.",
+    "category": "personal"
+  },
+  {
+    "id": "gs-57",
+    "question": "Theo bài viết của IBM \"RAG vs. fine-tuning vs. prompt engineering\", trong ba phương pháp này, phương pháp nào đòi hỏi nhiều tài nguyên tính toán nhất và phương pháp nào ít tốn kém nhất?",
+    "expected_answer": "Fine-tuning là phương pháp tốn kém và đòi hỏi nhiều tài nguyên nhất, vì quá trình chuẩn bị dữ liệu và huấn luyện đòi hỏi tính toán mạnh (nhiều GPU) và tốn thời gian. Prompt engineering là phương pháp ít tốn thời gian và tài nguyên nhất trong ba phương pháp — prompt engineering cơ bản có thể thực hiện thủ công mà không cần đầu tư thêm về tính toán. RAG ở mức trung gian, đòi hỏi chuyên môn khoa học dữ liệu để tổ chức dữ liệu doanh nghiệp và xây dựng pipeline kết nối LLM với các nguồn dữ liệu đó.",
+    "source": "data/raw/personal/rag-vs-fine-tuning-vs-prompt-engineering_ibm.pdf",
+    "page": 3,
+    "context_snippet": "Prompt engineering is the least time-consuming and resource-intensive of the three optimization techniques...RAG requires data science expertise...Fine-tuning is arguably the most demanding because the data preparation and training processes are so compute-intensive and time-consuming.",
+    "category": "personal"
+  },
+  {
+    "id": "gs-58",
+    "question": "Bài báo \"Ragas: Automated Evaluation of Retrieval Augmented Generation\" (Shahul Es et al.) tập trung vào ba khía cạnh chất lượng nào để đánh giá RAG mà không cần dữ liệu tham chiếu (reference-free)?",
+    "expected_answer": "Bài báo tập trung vào ba khía cạnh chất lượng, đầu tiên là Faithfulness — ý tưởng rằng câu trả lời phải được neo giữ (grounded) trong ngữ cảnh đã cho, quan trọng để tránh hallucination. (Bài báo còn đề cập thêm các khía cạnh khác về mức độ liên quan của câu trả lời và ngữ cảnh, nhưng đoạn trích chỉ nêu rõ tên và định nghĩa đầy đủ của Faithfulness.)",
+    "source": "data/raw/personal/ragas-automated-evaluation-of-rag_shahul-es.pdf",
+    "page": 2,
+    "context_snippet": "We consider a standard RAG setting, where given a question q , the system first retrieves some context c ( q ) and then uses the retrieved context to generate an answer a s ( q ) . When building a RAG system, we usually do not have access to human-annotated datasets or reference answers.",
+    "category": "personal"
+  },
+  {
+    "id": "gs-59",
+    "question": "Theo tài liệu so sánh \"RAGAS vs DeepEval\", deepeval khuyến nghị người dùng nên dùng RAG metrics gốc (native) của deepeval thay vì RagasMetric vì những lý do gì?",
+    "expected_answer": "Vì deepeval's RAG metrics: (1) tạo ra lý do (reason) tương ứng với công thức tính điểm, kết hợp lập luận của LLM giám khảo; (2) có thể debug được — có thể kiểm tra phán quyết của LLM giám khảo để hiểu vì sao điểm số như vậy; (3) có thể giới hạn định dạng JSON (JSON confineable), tránh lỗi điểm NaN thường gặp ở ragas do JSON không hợp lệ; (4) tích hợp đầy đủ với hệ sinh thái deepeval như caching, pytest, xử lý lỗi.",
+    "source": "data/raw/personal/ragas-vs-deepeval-llm-evaluation-framework.pdf",
+    "page": 1,
+    "context_snippet": "deepeval's RAG metrics generates a reason...are debuggable...are JSON confineable...integrates fully with deepeval's ecosystem...we highly recommend that you use deepeval's RAG metrics instead",
+    "category": "personal"
+  },
+  {
+    "id": "gs-60",
+    "question": "Theo tiêu đề và phần mở đầu của bài báo WIRED \"Reduce AI Hallucinations With This Neat Software Trick\", RAG được mô tả như thế nào?",
+    "expected_answer": "RAG (retrieval augmented generation) được mô tả là một \"software trick\" (thủ thuật phần mềm) đang nổi lên (\"buzzy\") và được áp dụng rộng rãi ở Silicon Valley, giúp cải thiện chất lượng đầu ra của các mô hình ngôn ngữ lớn (LLM).",
+    "source": "data/raw/personal/reduce-ai-hallucinations-with-neat-software-trick_wired.pdf",
+    "page": 1,
+    "context_snippet": "A buzzy process called retrieval augmented generation, or RAG, is taking hold in Silicon Valley and improving the outputs from large language models. How does it work?",
+    "category": "personal"
+  },
+  {
+    "id": "gs-61",
+    "question": "Theo \"Prompt Engineering Guide\" (phần Retrieval Augmented Generation), ai là người đề xuất phương pháp RAG, và RAG kết hợp những thành phần nào?",
+    "expected_answer": "RAG được các nhà nghiên cứu của Meta AI đề xuất để giải quyết các tác vụ đòi hỏi nhiều kiến thức nền (knowledge-intensive tasks). RAG kết hợp một thành phần truy xuất thông tin (information retrieval component) với một mô hình sinh văn bản (text generator model). RAG có thể được fine-tune và kiến thức nội tại của nó có thể được sửa đổi một cách hiệu quả mà không cần huấn luyện lại toàn bộ mô hình.",
+    "source": "data/raw/personal/retrieval-augmented-generation-rag_prompt-engineering-guide.pdf",
+    "page": 1,
+    "context_snippet": "General-purpose language models can be fine-tuned to achieve several common tasks such as sentiment analysis and named entity recognition. These tasks generally don't require additional background knowledge.",
+    "category": "personal"
+  },
+  {
+    "id": "gs-62",
+    "question": "Theo survey \"Retrieval-Augmented Generation: A Comprehensive Survey of Architectures, Enhancements, and Robustness Frontiers\" (Chaitanya Sharma), những thách thức mới nào phát sinh khi tích hợp retrieval với generation trong RAG?",
+    "expected_answer": "Ba thách thức chính: (1) nhiễu và sự dư thừa trong truy xuất (retrieval noise and redundancy) có thể làm giảm chất lượng đầu ra; (2) sự sai lệch (misalignment) giữa bằng chứng truy xuất được và văn bản được sinh ra có thể dẫn tới hallucination; (3) sự kém hiệu quả của pipeline và độ trễ (latency) khiến việc triển khai ở quy mô lớn tốn kém. Ngoài ra còn có sự đánh đổi kiến trúc mở giữa tính module hóa và sự tương tác chặt chẽ giữa truy xuất-sinh văn bản.",
+    "source": "data/raw/personal/retrieval-augmented-generation-survey_chaitanya-sharma.pdf",
+    "page": 1,
+    "context_snippet": "integrating retrieval with generation introduces unique challenges: retrieval noise and redundancy can degrade output quality; misalignment between retrieved evidence and generated text can lead to hallucinations; and pipeline inefficiencies and latency make deployment costly at scale.",
+    "category": "personal"
+  },
+  {
+    "id": "gs-63",
+    "question": "Theo bài \"Top 5 Tools to Evaluate RAG Performance in 2026\", năm nền tảng đánh giá RAG hàng đầu được so sánh là gì, và Maxim AI nổi bật ở điểm nào?",
+    "expected_answer": "Năm nền tảng: Maxim AI, LangSmith, Arize Phoenix, RAGAS, và DeepEval. Maxim AI nổi bật với cách tiếp cận toàn diện đầu-cuối (end-to-end), kết hợp thử nghiệm (experimentation), mô phỏng (simulation), đánh giá (evaluation), và khả năng quan sát (observability) trong một nền tảng duy nhất được thiết kế cho sự cộng tác liên chức năng (cross-functional collaboration).",
+    "source": "data/raw/personal/top-5-tools-to-evaluate-rag-performance-2026.pdf",
+    "page": 1,
+    "context_snippet": "This guide covers five leading RAG evaluation platforms: Maxim AI, LangSmith, Arize Phoenix, RAGAS, and DeepEval...Maxim AI stands out with its end-to-end approach, combining experimentation, simulation, evaluation, and observability in a single platform",
+    "category": "personal"
+  },
+  {
+    "id": "gs-64",
+    "question": "Theo bài \"What is RAG Evaluation? Frameworks, Metrics, and Gates in 2026\", ba lớp (layer) mà một hệ thống RAG cần được đánh giá riêng biệt là gì, và tại sao?",
+    "expected_answer": "Ba lớp: (1) Retrieval — các chunk đúng có được trả về không, đo bằng context precision, context recall, MRR, và hit-rate at k; (2) Generation — mô hình có sử dụng ngữ cảnh truy xuất một cách trung thực không, đo bằng faithfulness/groundedness, answer relevance, context utilization; (3) End-to-end — câu trả lời cuối cùng có đúng, hữu ích và đúng định dạng không. Đánh giá riêng từng lớp giúp khoanh vùng lỗi chính xác — ví dụ một câu trả lời có thể 'nghe đúng' (điểm end-to-end cao) dù dựa trên truy xuất kém hoặc mô hình bịa đặt thông tin, điều mà chỉ eval ở lớp retrieval/generation mới phát hiện ra được.",
+    "source": "data/raw/personal/what-is-rag-evaluation-frameworks-2026.pdf",
+    "page": 2,
+    "context_snippet": "RAG evaluation scores a Retrieval-Augmented Generation system across three layers: Retrieval. Did the right chunks come back? Measured by context precision, context recall, MRR, and hit-rate at k. Generation. Did the model use the retrieved context faithfully?",
+    "category": "personal"
+  },
+  {
+    "id": "gs-65",
+    "question": "Theo bài viết của IBM \"What is retrieval augmented generation (RAG)?\", vì sao RAG giúp giảm nguy cơ hallucination so với một mô hình sinh chỉ dựa trên dữ liệu huấn luyện?",
+    "expected_answer": "Vì RAG neo giữ (anchors) LLM vào kiến thức cụ thể được hỗ trợ bởi dữ liệu thực tế, có thẩm quyền (authoritative) và cập nhật (current), thay vì chỉ dựa vào các pattern mà mô hình học được từ dữ liệu huấn luyện tĩnh — nơi đôi khi mô hình phát hiện ra các pattern không thực sự tồn tại và trình bày thông tin sai/bịa đặt như thể đó là sự thật. So với mô hình chỉ hoạt động dựa trên dữ liệu huấn luyện, mô hình dùng RAG có xu hướng đưa ra câu trả lời chính xác hơn trong phạm vi dữ liệu ngoài được cung cấp. Tuy nhiên RAG không thể làm cho mô hình hoàn toàn không có lỗi.",
+    "source": "data/raw/personal/what-is-rag-retrieval-augmented-generation_ibm.pdf",
+    "page": 3,
+    "context_snippet": "Lower risk of AI hallucinations\nGenerative AI models such as OpenAI's GPT work by detecting patterns in their data, then using those patterns to predict the most likely outcomes to user inputs. Sometimes models detect patterns that don't exist. A hallucination or confabulation happens when models present incorrect or made-up information as though it is factual.",
+    "category": "personal"
+  }
+]
