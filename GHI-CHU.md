@@ -57,7 +57,7 @@ Trùng lặp được loại bỏ bằng **MD5** — hàm băm (hash function) b
 
 ## 3. Kiến trúc hệ thống
 
-Pipeline gồm 11 giai đoạn: chuẩn bị dữ liệu → trích xuất → chunking → embedding → vector database → retrieval → prompt → generation → evaluation → kỹ thuật nâng cao → demo. Cơ chế kỹ thuật sâu hơn (hàm cụ thể, đối chiếu code) ở `CONG-NGHE-CHI-TIET.md`.
+Pipeline gồm 11 giai đoạn: chuẩn bị dữ liệu → trích xuất → chunking → embedding → vector database → retrieval → prompt → generation → evaluation → kỹ thuật nâng cao → demo.
 
 ### 3.1 Trích xuất văn bản
 
@@ -264,8 +264,6 @@ scripts/
 ├── evaluate_advanced_retrieval.py đánh giá Retrieval Hybrid+Rerank trên toàn bộ golden set
 └── verify.py                      Answer Verification (kiểm tra Faithfulness trước khi trả lời)
 ```
-
-Tài liệu bổ sung: `CONG-NGHE-CHI-TIET.md` (cơ chế kỹ thuật từng công nghệ, đối chiếu code); `quy-trinh-rag-hoc-tap.md` (kế hoạch gốc).
 
 ## Phụ lục B — Hướng dẫn triển khai
 

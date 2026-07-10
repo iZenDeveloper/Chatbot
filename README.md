@@ -4,8 +4,6 @@ Hệ thống RAG (Retrieval-Augmented Generation) cá nhân, học tập, chạy
 
 **Báo cáo kỹ thuật đầy đủ:** xem [GHI-CHU.md](GHI-CHU.md) — kiến trúc, phương pháp, số liệu đánh giá (Retrieval + Generation), hạn chế và hướng cải thiện, kèm giải thích khái niệm/thuật ngữ.
 
-**Cơ chế kỹ thuật chi tiết từng công nghệ:** xem [CONG-NGHE-CHI-TIET.md](CONG-NGHE-CHI-TIET.md).
-
 ## Kiến trúc
 
 Trích xuất (Docling) → Chunking (section-based + document-aware + semantic) → Embedding (`BAAI/bge-m3`) → Vector DB (Chroma, HNSW) → Retrieval (Hybrid BM25+Dense → Reranker cross-encoder) → Prompt chống hallucination → Generation (Gemini/Groq) → Answer Verification.
