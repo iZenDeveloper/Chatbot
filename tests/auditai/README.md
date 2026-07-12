@@ -17,3 +17,9 @@ export XAI_API_KEY=...   # or OPENAI_API_KEY
 # edit auditai.yml judge.provider = xai|openai
 auditai run --config tests/auditai/auditai.yml
 ```
+
+
+## Config overrides
+
+- `AUDITAI_TARGET_URL` — real chat API URL (default mock `:18080`)
+- Default `judge.provider: mock` (set `xai`/`openai` + API key to opt in)
